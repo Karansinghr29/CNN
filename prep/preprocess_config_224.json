@@ -1,0 +1,18 @@
+{
+  "name": "224",
+  "size": 224,
+  "resize_mode": "letterbox",
+  "interpolation": "bicubic",
+  "pad_color": [0, 0, 0],
+  "mean": [0.485, 0.456, 0.406],
+  "std": [0.229, 0.224, 0.225],
+  "exif_transpose": true,
+  "source_resolution": "4000x2250 stored, 2250x4000 after EXIF correction (portrait, 9:16)",
+  "effective_content_box": "224x126 inside a 224x224 canvas (letterbox), i.e. the room occupies ~56% of the canvas",
+  "downscale_factor_long_edge": 17.86,
+  "notes": [
+    "Letterbox preserves the full frame; a center crop at 9:16 would discard ~44% of the image.",
+    "Augmentation is NOT part of this configuration and is not applied at this stage.",
+    "Normalization statistics are recorded for reproducibility; they are fixed ImageNet constants, not fitted on this dataset."
+  ]
+}

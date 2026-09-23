@@ -1,0 +1,54 @@
+{
+  "artifact": "demo_cleanliness_model.joblib",
+  "purpose": "PROTOTYPE DEMO ONLY - not production validated",
+  "created_utc": "2026-09-22T12:30:54+00:00",
+  "fitted_on": {
+    "n_images": 136,
+    "CLEAN": 105,
+    "NOT_CLEAN": 31,
+    "source": "the 136 labeled images of cleanliness_manifest.csv (5 UNCERTAIN images excluded, labels unchanged)"
+  },
+  "pipeline": {
+    "backbone": "torchvision resnet50, weights=IMAGENET1K_V2, frozen (eval, no grad)",
+    "preprocessing": "EXIF transpose -> crop view -> letterbox 384x384 bicubic -> ImageNet mean/std normalisation (prep/preprocess_config_384.json)",
+    "views": "whole + q1..q4 (2x2 quadrants, 10% overlap) as defined in extract_spatial_embeddings.VIEWS",
+    "representation": "tile2x2_concat = concat[whole, q1, q2, q3, q4] -> 10240-d",
+    "scaler": "sklearn StandardScaler",
+    "classifier": "sklearn LogisticRegression {'C': 1.0, 'max_iter': 5000, 'class_weight': 'balanced', 'solver': 'lbfgs'}"
+  },
+  "threshold": {
+    "default": 0.07,
+    "lopo_fold_thresholds": {
+      "A33": 0.11,
+      "A34": 0.07,
+      "B41": 0.05,
+      "C21": 0.17,
+      "C31": 0.06
+    },
+    "note": "Default is the median of the five LOPO fold thresholds. Each fold threshold was selected on that fold's training properties only."
+  },
+  "validation_evidence": {
+    "protocol": "5-fold Leave-One-Property-Out, see artifacts/experiments/spatial_lopo_metrics.json",
+    "lopo_accuracy": 0.7941,
+    "lopo_balanced_accuracy": 0.753,
+    "lopo_notclean_recall": 0.6774,
+    "lopo_notclean_precision": 0.5385,
+    "lopo_macro_f1": 0.7307,
+    "IMPORTANT": "These figures describe the LOPO PROCEDURE on 136 images from 5 properties. They are NOT the accuracy of this fitted artifact, which was trained on all 136 images and therefore has no unbiased performance estimate."
+  },
+  "limitations": [
+    "31 NOT_CLEAN images originate from only 6 rooms.",
+    "Data comes from 5 property groups, one building, one day, one camera.",
+    "Small floor debris and discarded waste were poorly detected in evaluation.",
+    "Not production validated. Prototype only."
+  ],
+  "inputs_that_are_not_features": [
+    "room_id",
+    "property_group",
+    "sub_area",
+    "image_file"
+  ],
+  "source_embeddings_sha256": "d900df4d29c42b93f4fc922097ea22bc32b1b9fa9a4d284031801dc00b09b9dc",
+  "sklearn_version": "1.8.0",
+  "numpy_version": "2.4.2"
+}

@@ -1,0 +1,107 @@
+{
+  "backbone": "resnet50 IMAGENET1K_V2",
+  "frozen": true,
+  "fine_tuned": false,
+  "classifier_trained": false,
+  "config": {
+    "name": "384",
+    "size": 384,
+    "resize_mode": "letterbox",
+    "interpolation": "bicubic",
+    "pad_color": [
+      0,
+      0,
+      0
+    ],
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "views": [
+    {
+      "name": "whole",
+      "box_fractions": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "upper",
+      "box_fractions": [
+        0.0,
+        0.0,
+        1.0,
+        0.6
+      ]
+    },
+    {
+      "name": "lower",
+      "box_fractions": [
+        0.0,
+        0.4,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "q1",
+      "box_fractions": [
+        0.0,
+        0.0,
+        0.55,
+        0.55
+      ]
+    },
+    {
+      "name": "q2",
+      "box_fractions": [
+        0.45,
+        0.0,
+        1.0,
+        0.55
+      ]
+    },
+    {
+      "name": "q3",
+      "box_fractions": [
+        0.0,
+        0.45,
+        0.55,
+        1.0
+      ]
+    },
+    {
+      "name": "q4",
+      "box_fractions": [
+        0.45,
+        0.45,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "n_images": 136,
+  "per_view_dim": 2048,
+  "shape": [
+    136,
+    7,
+    2048
+  ],
+  "fitted_transforms": "none - raw backbone outputs",
+  "metadata_columns_are_not_features": [
+    "room_id",
+    "property_group",
+    "sub_area",
+    "image_file",
+    "image_path"
+  ]
+}

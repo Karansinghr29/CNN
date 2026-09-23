@@ -1,0 +1,35 @@
+# --- Python ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Secrets (defensive; none currently exist in this project) -------------
+.env
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+
+# --- OS cruft --------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Room photo dataset ----------------------------------------------------
+# The 141 original room JPEGs (~458 MB) live in the 14 room folders below.
+# They are deliberately NOT tracked in git:
+#   * size - they are 98% of the project by bytes;
+#   * privacy - they are photographs of occupied tenant rooms.
+# Every label, path and audit record for them is preserved in
+# cleanliness_manifest.csv / .jsonl, and the derived features are committed
+# under artifacts/embeddings/.
+/A33*/
+/A34*/
+/B41*/
+/C21*/
+/C31*/

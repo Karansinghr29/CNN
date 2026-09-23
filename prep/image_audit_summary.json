@@ -1,0 +1,151 @@
+{
+  "labeled_images": 136,
+  "loaded_ok": 136,
+  "failures": [],
+  "raw_sizes": {
+    "(4000, 2250)": 136
+  },
+  "corrected_sizes": {
+    "(2250, 4000)": 136
+  },
+  "exif_orientation": {
+    "6": 136
+  },
+  "exact_duplicate_groups": 0,
+  "near_duplicate_pairs": [
+    {
+      "distance": 5,
+      "a_file": "IMG_20260918_114326.jpg",
+      "a_room": "C31 B double attach",
+      "a_label": "NOT_CLEAN",
+      "b_file": "IMG_20260918_114331.jpg",
+      "b_room": "C31 B double attach",
+      "b_label": "NOT_CLEAN",
+      "same_room": true,
+      "same_property": true,
+      "same_label": true
+    }
+  ],
+  "cover_images": [
+    {
+      "room_id": "A33 A single attach",
+      "cover_file": "A33 A Single attach. .jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_104828.jpg",
+      "dhash_distance": 24,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "A33 C double common",
+      "cover_file": "A33 C double Common.jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_105241.jpg",
+      "dhash_distance": 27,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "A34 A single attach",
+      "cover_file": "A34 A Single attach.jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_104337.jpg",
+      "dhash_distance": 25,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "A34 B double attach",
+      "cover_file": "A34 B double attach.jpg",
+      "label": "NOT_CLEAN",
+      "nearest_in_folder": "IMG_20260918_104015.jpg",
+      "dhash_distance": 14,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "B41 B double attach",
+      "cover_file": "B41  B Double attach.jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_111705.jpg",
+      "dhash_distance": 25,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "B41 B double attach",
+      "cover_file": "B41 B double attach. .jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_111728.jpg",
+      "dhash_distance": 22,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "B41 C double common",
+      "cover_file": "B 41 C  double common.jpg",
+      "label": "NOT_CLEAN",
+      "nearest_in_folder": "IMG_20260918_111216.jpg",
+      "dhash_distance": 25,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "B41 D single attach",
+      "cover_file": "B41 D single attach.jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_111442.jpg",
+      "dhash_distance": 20,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "C21 A single common",
+      "cover_file": "C21 A single common.jpg",
+      "label": "UNCERTAIN",
+      "nearest_in_folder": "IMG_20260918_113243.jpg",
+      "dhash_distance": 23,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "C21 B double attach",
+      "cover_file": "C21 B double attach.jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_113422.jpg",
+      "dhash_distance": 26,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "C21 C double common",
+      "cover_file": "C21 C double Common.jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_112727.jpg",
+      "dhash_distance": 26,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "C21 D single attach",
+      "cover_file": "C21 D single attach.jpg",
+      "label": "CLEAN",
+      "nearest_in_folder": "IMG_20260918_113000.jpg",
+      "dhash_distance": 21,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "C31 B double attach",
+      "cover_file": "C31 b double attach.jpg",
+      "label": "NOT_CLEAN",
+      "nearest_in_folder": "IMG_20260918_114331.jpg",
+      "dhash_distance": 25,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "C31 C double Common",
+      "cover_file": "C31 c double common.jpg",
+      "label": "UNCERTAIN",
+      "nearest_in_folder": "IMG_20260918_113854.jpg",
+      "dhash_distance": 25,
+      "is_exact_duplicate": false
+    },
+    {
+      "room_id": "C31 D single attach",
+      "cover_file": "C31 D single attach.jpg",
+      "label": "UNCERTAIN",
+      "nearest_in_folder": "IMG_20260918_114047.jpg",
+      "dhash_distance": 24,
+      "is_exact_duplicate": false
+    }
+  ]
+}

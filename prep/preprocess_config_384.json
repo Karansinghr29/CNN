@@ -1,0 +1,19 @@
+{
+  "name": "384",
+  "size": 384,
+  "resize_mode": "letterbox",
+  "interpolation": "bicubic",
+  "pad_color": [0, 0, 0],
+  "mean": [0.485, 0.456, 0.406],
+  "std": [0.229, 0.224, 0.225],
+  "exif_transpose": true,
+  "source_resolution": "4000x2250 stored, 2250x4000 after EXIF correction (portrait, 9:16)",
+  "effective_content_box": "384x216 inside a 384x384 canvas (letterbox), i.e. the room occupies ~56% of the canvas",
+  "downscale_factor_long_edge": 10.42,
+  "notes": [
+    "Same geometry as the 224 config, 1.71x more linear detail (2.94x pixel area on the content box).",
+    "Not automatically preferred: higher input cost, and the backbone must actually support/benefit from 384.",
+    "Augmentation is NOT part of this configuration and is not applied at this stage.",
+    "Normalization statistics are fixed ImageNet constants, not fitted on this dataset."
+  ]
+}
