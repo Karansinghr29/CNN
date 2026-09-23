@@ -10,7 +10,7 @@ from __future__ import annotations
 import csv
 import os
 
-from dataset_prep import load_manifest
+from dataset_prep import load_manifest, to_repo_relative
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lopo_folds.csv")
 
@@ -35,7 +35,7 @@ def main() -> None:
                 "sub_area": r["sub_area"],
                 "final_label": r["final_label"],
                 "image_file": r["image_file"],
-                "image_path": r["image_path"],
+                "image_path": to_repo_relative(r["image_path"]),   # portable, repo-relative
             })
 
     with open(OUT, "w", newline="", encoding="utf-8-sig") as f:

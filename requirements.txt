@@ -1,0 +1,17 @@
+# Room-cleanliness prototype - pinned to the versions this project was built and
+# validated with (Python 3.13.12, Windows, CPU only).
+#
+# PyTorch is CPU-only. Install it from the PyTorch CPU index first:
+#
+#   pip install torch==2.14.0 torchvision==0.29.0 --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+#
+# No GPU is required: the ResNet-50 backbone is frozen and only used for inference.
+
+torch==2.14.0
+torchvision==0.29.0
+scikit-learn==1.8.0
+numpy==2.4.2
+Pillow==12.1.1
+joblib==1.5.3
+streamlit==1.59.0

@@ -31,10 +31,11 @@ import numpy as np
 import sklearn
 from sklearn.preprocessing import StandardScaler
 
+from dataset_prep import PROJECT_ROOT
 from run_lopo_experiment import POS, fit_classifier
 from run_spatial_experiment import build_representations
 
-PROJECT = r"D:\data science\CNN"
+PROJECT = PROJECT_ROOT
 EMB = os.path.join(PROJECT, "artifacts", "embeddings", "embeddings_resnet50_384_spatial.npz")
 BASELINE_EMB = os.path.join(PROJECT, "artifacts", "embeddings", "embeddings_resnet50_384.npz")
 METRICS = os.path.join(PROJECT, "artifacts", "experiments", "spatial_lopo_metrics.json")

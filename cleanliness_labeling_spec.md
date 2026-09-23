@@ -1,6 +1,6 @@
 # Room Cleanliness — Labeling & Explanation Specification (v2)
 
-Verified from 14 room folders / 141 images under `D:\data science\CNN`.
+Verified from 14 room folders / 141 images in this repository.
 Used for (a) labeling training data and (b) producing an explained prediction for any NEW uploaded photo.
 
 Never output a label without a reason. Never use a room number, folder name or a previous label as evidence.

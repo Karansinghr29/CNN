@@ -14,8 +14,8 @@ import os
 
 from PIL import Image, ImageOps
 
-from dataset_prep import (MANIFEST, load_manifest, excluded_rows, verify_all,
-                          file_sha256, property_group)
+from dataset_prep import (MANIFEST, PROJECT_ROOT, load_manifest, excluded_rows,
+                          verify_all, file_sha256, property_group, to_repo_relative)
 
 OUT_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -66,7 +66,7 @@ def main() -> None:
     dups = {h: v for h, v in by_hash.items() if len(v) > 1}
     print(f"  duplicate groups across all 141 images: {len(dups)}")
     for h, v in dups.items():
-        print("   ", h[:12], [os.path.relpath(p, r"D:\data science\CNN") for p in v])
+        print("   ", h[:12], [os.path.relpath(p, PROJECT_ROOT) for p in v])
 
     print()
     print("4. NEAR-DUPLICATE CANDIDATES (dHash, hamming <= 6, labeled set)")

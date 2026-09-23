@@ -8,7 +8,7 @@ Uses the already-validated approach unchanged:
   -> whole + q1..q4 spatial views -> tile2x2_concat (10240-d)
   -> StandardScaler -> class-weighted LogisticRegression
 
-Run:  streamlit run demo_app.py      (from D:\data science\CNN)
+Run:  streamlit run demo_app.py      (from the repository root)
 """
 from __future__ import annotations
 

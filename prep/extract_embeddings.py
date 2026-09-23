@@ -25,9 +25,8 @@ import sys
 
 import numpy as np
 
-from dataset_prep import CONFIGS, load_manifest, load_image
+from dataset_prep import CONFIGS, PROJECT_ROOT, load_manifest, load_image
 
-PROJECT_ROOT = r"D:\data science\CNN"
 # Generated artifacts live apart from the original dataset and the manifest.
 OUT_DIR = os.path.join(PROJECT_ROOT, "artifacts", "embeddings")
 

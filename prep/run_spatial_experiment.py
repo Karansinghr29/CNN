@@ -22,12 +22,13 @@ import os
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 
+from dataset_prep import PROJECT_ROOT, resolve_image_path, to_repo_relative
 from run_lopo_experiment import (POS, fit_classifier, metrics, pick_threshold)
 
-ART = r"D:\data science\CNN\artifacts"
+ART = os.path.join(PROJECT_ROOT, "artifacts")
 EMB = os.path.join(ART, "embeddings", "embeddings_resnet50_384_spatial.npz")
 OUT_DIR = os.path.join(ART, "experiments")
-MANIFEST = r"D:\data science\CNN\cleanliness_manifest.csv"
+MANIFEST = os.path.join(PROJECT_ROOT, "cleanliness_manifest.csv")
 
 VARIANTS = ("unweighted", "class_weighted")
 
@@ -54,7 +55,9 @@ def main() -> None:
     views = [str(v) for v in d["view_names"]]
     y = (d["final_label"] == POS).astype(int)
     groups = d["property_group"]
-    manifest = {r["image_path"]: r for r in csv.DictReader(open(MANIFEST, encoding="utf-8-sig"))}
+    # keyed by resolved absolute path so it matches the paths stored in the .npz
+    manifest = {resolve_image_path(r["image_path"]): r
+                for r in csv.DictReader(open(MANIFEST, encoding="utf-8-sig"))}
 
     reps = build_representations(E, views)
     props = sorted(np.unique(groups))
@@ -84,7 +87,7 @@ def main() -> None:
                 for i in np.where(te)[0]:
                     mr = manifest[d["image_path"][i]]
                     rows.append({
-                        "image_path": d["image_path"][i], "image_file": d["image_file"][i],
+                        "image_path": to_repo_relative(d["image_path"][i]), "image_file": d["image_file"][i],
                         "room_id": d["room_id"][i], "property_group": d["property_group"][i],
                         "sub_area": d["sub_area"][i], "actual_label": d["final_label"][i],
                         "predicted_label": POS if oof_pred[i] == 1 else "CLEAN",

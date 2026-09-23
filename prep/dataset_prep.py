@@ -17,8 +17,15 @@ from typing import Iterator
 
 from PIL import Image, ImageOps
 
-PROJECT_ROOT = r"D:\data science\CNN"
+# Repository root, derived from this file's location (prep/ -> repo root).
+# Override with the CLEANLINESS_PROJECT_ROOT environment variable if the code is
+# ever run from outside the repository layout.
+PROJECT_ROOT = os.environ.get(
+    "CLEANLINESS_PROJECT_ROOT",
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+)
 MANIFEST = os.path.join(PROJECT_ROOT, "cleanliness_manifest.csv")
+ARTIFACTS = os.path.join(PROJECT_ROOT, "artifacts")
 
 SUPERVISED_LABELS = ("CLEAN", "NOT_CLEAN")   # UNCERTAIN excluded from supervised use
 EXCLUDED_LABEL = "UNCERTAIN"
@@ -32,12 +39,40 @@ def property_group(room_id: str) -> str:
     return room_id.split()[0].upper()
 
 
+def resolve_image_path(path: str) -> str:
+    """Manifest paths are stored repo-relative; resolve them against PROJECT_ROOT.
+
+    Absolute paths (older manifests) pass through unchanged, so behaviour is the
+    same either way.
+    """
+    if os.path.isabs(path):
+        return path
+    return os.path.normpath(os.path.join(PROJECT_ROOT, path.replace("/", os.sep)))
+
+
+def to_repo_relative(path: str) -> str:
+    """Absolute path -> repo-relative with forward slashes, for files we publish.
+
+    Paths outside the repository, and already-relative paths, are returned as-is.
+    """
+    if not os.path.isabs(path):
+        return path.replace("\\", "/")
+    try:
+        rel = os.path.relpath(path, PROJECT_ROOT)
+    except ValueError:            # different drive on Windows
+        return path
+    if rel.startswith(".."):
+        return path
+    return rel.replace("\\", "/")
+
+
 def load_manifest(path: str = MANIFEST, supervised_only: bool = True) -> list[dict]:
     """Read the manifest. supervised_only=True keeps CLEAN + NOT_CLEAN (136 rows)."""
     with open(path, encoding="utf-8-sig", newline="") as f:
         rows = list(csv.DictReader(f))
     for r in rows:
         r["property_group"] = property_group(r["room_id"])
+        r["image_path"] = resolve_image_path(r["image_path"])
     if supervised_only:
         rows = [r for r in rows if r["final_label"] in SUPERVISED_LABELS]
     return rows
@@ -156,7 +191,7 @@ def verify_all(rows: list[dict]) -> dict:
             load_image(r["image_path"])  # full decode
             ok += 1
             records.append({
-                "image_path": r["image_path"], "room_id": r["room_id"],
+                "image_path": to_repo_relative(r["image_path"]), "room_id": r["room_id"],
                 "property_group": r["property_group"], "sub_area": r["sub_area"],
                 "final_label": r["final_label"],
                 "raw_w": rw, "raw_h": rh, "corrected_w": cw, "corrected_h": ch,

@@ -21,10 +21,10 @@ import numpy as np
 import torch
 from PIL import Image
 
-from dataset_prep import CONFIGS, load_manifest, load_image, _resize
+from dataset_prep import CONFIGS, PROJECT_ROOT, load_manifest, load_image, _resize
 from extract_embeddings import build_backbone, to_tensor
 
-OUT_DIR = r"D:\data science\CNN\artifacts\embeddings"
+OUT_DIR = os.path.join(PROJECT_ROOT, "artifacts", "embeddings")
 
 # (name, x0, y0, x1, y1) as fractions of the EXIF-corrected image
 VIEWS = [

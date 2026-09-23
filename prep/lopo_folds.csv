@@ -1,681 +1,681 @@
 ﻿fold,split,property_group,room_id,sub_area,final_label,image_file,image_path
-1,test,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,D:\data science\CNN\A33 A single attach\A33 A Single attach. .jpg
-1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104751.jpg
-1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104756.jpg
-1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104801.jpg
-1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104805.jpg
-1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104828.jpg
-1,test,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,D:\data science\CNN\A33 C double common\A33 C double Common.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105110.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105117.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105124.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105135.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105143.jpg
-1,test,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105157.jpg
-1,test,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105203.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105215.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105219.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105224.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105241.jpg
-1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105245.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,D:\data science\CNN\A34 A single attach\A34 A Single attach.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104319.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104324.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104330.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104334.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104337.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104358.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104414.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104444.jpg
-1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104514.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,D:\data science\CNN\A34 B double attach\A34 B double attach.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103815.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103820.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103827.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103844.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103854.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103858.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104015.jpg
-1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104031.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,D:\data science\CNN\B41 B double attach\B41  B Double attach.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,D:\data science\CNN\B41 B double attach\B41 B double attach. .jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111705.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111711.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111715.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111718.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111720.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111728.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111733.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111738.jpg
-1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111743.jpg
-1,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_110949.jpg
-1,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111002.jpg
-1,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111005.jpg
-1,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111008.jpg
-1,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111013.jpg
-1,train,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,D:\data science\CNN\B41 C double common\B 41 C  double common.jpg
-1,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111123.jpg
-1,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111127.jpg
-1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111131.jpg
-1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111134.jpg
-1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111147.jpg
-1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111209.jpg
-1,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111216.jpg
-1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111220.jpg
-1,train,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,D:\data science\CNN\B41 D single attach\B41 D single attach.jpg
-1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111416.jpg
-1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111425.jpg
-1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111442.jpg
-1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111500.jpg
-1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111507.jpg
-1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111517.jpg
-1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111527.jpg
-1,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113220.jpg
-1,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113224.jpg
-1,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113231.jpg
-1,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113239.jpg
-1,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113243.jpg
-1,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113250.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,D:\data science\CNN\C21 B double attach\C21 B double attach.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113357.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113400.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113408.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113413.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113416.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113422.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113430.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113433.jpg
-1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113438.jpg
-1,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112605.jpg
-1,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112611.jpg
-1,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112616.jpg
-1,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112620.jpg
-1,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112629.jpg
-1,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112638.jpg
-1,train,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,D:\data science\CNN\C21 C double common\C21 C double Common.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112714.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112717.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112720.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112725.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112727.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112741.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112745.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112750.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112755.jpg
-1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112759.jpg
-1,train,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,D:\data science\CNN\C21 D single attach\C21 D single attach.jpg
-1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112920.jpg
-1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112926.jpg
-1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112934.jpg
-1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112938.jpg
-1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112950.jpg
-1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112954.jpg
-1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_113000.jpg
-1,train,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,D:\data science\CNN\C31 B double attach\C31 b double attach.jpg
-1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114321.jpg
-1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114326.jpg
-1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114331.jpg
-1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114344.jpg
-1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114348.jpg
-1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114351.jpg
-1,train,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114356.jpg
-1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113835.jpg
-1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113838.jpg
-1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113846.jpg
-1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113854.jpg
-1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113857.jpg
-1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113901.jpg
-1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113909.jpg
-1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113912.jpg
-1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114047.jpg
-1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114050.jpg
-1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114054.jpg
-1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114058.jpg
-1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114111.jpg
-1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114115.jpg
-1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114120.jpg
-1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114127.jpg
-2,train,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,D:\data science\CNN\A33 A single attach\A33 A Single attach. .jpg
-2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104751.jpg
-2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104756.jpg
-2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104801.jpg
-2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104805.jpg
-2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104828.jpg
-2,train,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,D:\data science\CNN\A33 C double common\A33 C double Common.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105110.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105117.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105124.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105135.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105143.jpg
-2,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105157.jpg
-2,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105203.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105215.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105219.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105224.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105241.jpg
-2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105245.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,D:\data science\CNN\A34 A single attach\A34 A Single attach.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104319.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104324.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104330.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104334.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104337.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104358.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104414.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104444.jpg
-2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104514.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,D:\data science\CNN\A34 B double attach\A34 B double attach.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103815.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103820.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103827.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103844.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103854.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103858.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104015.jpg
-2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104031.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,D:\data science\CNN\B41 B double attach\B41  B Double attach.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,D:\data science\CNN\B41 B double attach\B41 B double attach. .jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111705.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111711.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111715.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111718.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111720.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111728.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111733.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111738.jpg
-2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111743.jpg
-2,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_110949.jpg
-2,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111002.jpg
-2,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111005.jpg
-2,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111008.jpg
-2,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111013.jpg
-2,train,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,D:\data science\CNN\B41 C double common\B 41 C  double common.jpg
-2,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111123.jpg
-2,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111127.jpg
-2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111131.jpg
-2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111134.jpg
-2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111147.jpg
-2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111209.jpg
-2,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111216.jpg
-2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111220.jpg
-2,train,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,D:\data science\CNN\B41 D single attach\B41 D single attach.jpg
-2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111416.jpg
-2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111425.jpg
-2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111442.jpg
-2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111500.jpg
-2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111507.jpg
-2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111517.jpg
-2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111527.jpg
-2,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113220.jpg
-2,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113224.jpg
-2,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113231.jpg
-2,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113239.jpg
-2,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113243.jpg
-2,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113250.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,D:\data science\CNN\C21 B double attach\C21 B double attach.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113357.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113400.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113408.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113413.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113416.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113422.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113430.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113433.jpg
-2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113438.jpg
-2,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112605.jpg
-2,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112611.jpg
-2,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112616.jpg
-2,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112620.jpg
-2,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112629.jpg
-2,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112638.jpg
-2,train,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,D:\data science\CNN\C21 C double common\C21 C double Common.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112714.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112717.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112720.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112725.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112727.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112741.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112745.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112750.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112755.jpg
-2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112759.jpg
-2,train,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,D:\data science\CNN\C21 D single attach\C21 D single attach.jpg
-2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112920.jpg
-2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112926.jpg
-2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112934.jpg
-2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112938.jpg
-2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112950.jpg
-2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112954.jpg
-2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_113000.jpg
-2,train,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,D:\data science\CNN\C31 B double attach\C31 b double attach.jpg
-2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114321.jpg
-2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114326.jpg
-2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114331.jpg
-2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114344.jpg
-2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114348.jpg
-2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114351.jpg
-2,train,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114356.jpg
-2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113835.jpg
-2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113838.jpg
-2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113846.jpg
-2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113854.jpg
-2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113857.jpg
-2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113901.jpg
-2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113909.jpg
-2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113912.jpg
-2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114047.jpg
-2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114050.jpg
-2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114054.jpg
-2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114058.jpg
-2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114111.jpg
-2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114115.jpg
-2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114120.jpg
-2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114127.jpg
-3,train,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,D:\data science\CNN\A33 A single attach\A33 A Single attach. .jpg
-3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104751.jpg
-3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104756.jpg
-3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104801.jpg
-3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104805.jpg
-3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104828.jpg
-3,train,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,D:\data science\CNN\A33 C double common\A33 C double Common.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105110.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105117.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105124.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105135.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105143.jpg
-3,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105157.jpg
-3,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105203.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105215.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105219.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105224.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105241.jpg
-3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105245.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,D:\data science\CNN\A34 A single attach\A34 A Single attach.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104319.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104324.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104330.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104334.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104337.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104358.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104414.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104444.jpg
-3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104514.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,D:\data science\CNN\A34 B double attach\A34 B double attach.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103815.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103820.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103827.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103844.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103854.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103858.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104015.jpg
-3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104031.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,D:\data science\CNN\B41 B double attach\B41  B Double attach.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,D:\data science\CNN\B41 B double attach\B41 B double attach. .jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111705.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111711.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111715.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111718.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111720.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111728.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111733.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111738.jpg
-3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111743.jpg
-3,test,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_110949.jpg
-3,test,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111002.jpg
-3,test,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111005.jpg
-3,test,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111008.jpg
-3,test,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111013.jpg
-3,test,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,D:\data science\CNN\B41 C double common\B 41 C  double common.jpg
-3,test,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111123.jpg
-3,test,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111127.jpg
-3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111131.jpg
-3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111134.jpg
-3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111147.jpg
-3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111209.jpg
-3,test,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111216.jpg
-3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111220.jpg
-3,test,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,D:\data science\CNN\B41 D single attach\B41 D single attach.jpg
-3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111416.jpg
-3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111425.jpg
-3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111442.jpg
-3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111500.jpg
-3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111507.jpg
-3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111517.jpg
-3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111527.jpg
-3,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113220.jpg
-3,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113224.jpg
-3,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113231.jpg
-3,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113239.jpg
-3,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113243.jpg
-3,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113250.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,D:\data science\CNN\C21 B double attach\C21 B double attach.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113357.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113400.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113408.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113413.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113416.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113422.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113430.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113433.jpg
-3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113438.jpg
-3,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112605.jpg
-3,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112611.jpg
-3,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112616.jpg
-3,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112620.jpg
-3,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112629.jpg
-3,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112638.jpg
-3,train,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,D:\data science\CNN\C21 C double common\C21 C double Common.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112714.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112717.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112720.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112725.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112727.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112741.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112745.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112750.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112755.jpg
-3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112759.jpg
-3,train,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,D:\data science\CNN\C21 D single attach\C21 D single attach.jpg
-3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112920.jpg
-3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112926.jpg
-3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112934.jpg
-3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112938.jpg
-3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112950.jpg
-3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112954.jpg
-3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_113000.jpg
-3,train,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,D:\data science\CNN\C31 B double attach\C31 b double attach.jpg
-3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114321.jpg
-3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114326.jpg
-3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114331.jpg
-3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114344.jpg
-3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114348.jpg
-3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114351.jpg
-3,train,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114356.jpg
-3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113835.jpg
-3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113838.jpg
-3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113846.jpg
-3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113854.jpg
-3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113857.jpg
-3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113901.jpg
-3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113909.jpg
-3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113912.jpg
-3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114047.jpg
-3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114050.jpg
-3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114054.jpg
-3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114058.jpg
-3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114111.jpg
-3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114115.jpg
-3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114120.jpg
-3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114127.jpg
-4,train,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,D:\data science\CNN\A33 A single attach\A33 A Single attach. .jpg
-4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104751.jpg
-4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104756.jpg
-4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104801.jpg
-4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104805.jpg
-4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104828.jpg
-4,train,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,D:\data science\CNN\A33 C double common\A33 C double Common.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105110.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105117.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105124.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105135.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105143.jpg
-4,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105157.jpg
-4,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105203.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105215.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105219.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105224.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105241.jpg
-4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105245.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,D:\data science\CNN\A34 A single attach\A34 A Single attach.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104319.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104324.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104330.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104334.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104337.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104358.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104414.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104444.jpg
-4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104514.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,D:\data science\CNN\A34 B double attach\A34 B double attach.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103815.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103820.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103827.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103844.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103854.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103858.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104015.jpg
-4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104031.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,D:\data science\CNN\B41 B double attach\B41  B Double attach.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,D:\data science\CNN\B41 B double attach\B41 B double attach. .jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111705.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111711.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111715.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111718.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111720.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111728.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111733.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111738.jpg
-4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111743.jpg
-4,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_110949.jpg
-4,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111002.jpg
-4,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111005.jpg
-4,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111008.jpg
-4,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111013.jpg
-4,train,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,D:\data science\CNN\B41 C double common\B 41 C  double common.jpg
-4,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111123.jpg
-4,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111127.jpg
-4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111131.jpg
-4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111134.jpg
-4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111147.jpg
-4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111209.jpg
-4,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111216.jpg
-4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111220.jpg
-4,train,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,D:\data science\CNN\B41 D single attach\B41 D single attach.jpg
-4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111416.jpg
-4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111425.jpg
-4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111442.jpg
-4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111500.jpg
-4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111507.jpg
-4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111517.jpg
-4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111527.jpg
-4,test,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113220.jpg
-4,test,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113224.jpg
-4,test,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113231.jpg
-4,test,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113239.jpg
-4,test,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113243.jpg
-4,test,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113250.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,D:\data science\CNN\C21 B double attach\C21 B double attach.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113357.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113400.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113408.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113413.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113416.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113422.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113430.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113433.jpg
-4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113438.jpg
-4,test,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112605.jpg
-4,test,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112611.jpg
-4,test,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112616.jpg
-4,test,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112620.jpg
-4,test,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112629.jpg
-4,test,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112638.jpg
-4,test,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,D:\data science\CNN\C21 C double common\C21 C double Common.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112714.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112717.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112720.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112725.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112727.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112741.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112745.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112750.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112755.jpg
-4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112759.jpg
-4,test,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,D:\data science\CNN\C21 D single attach\C21 D single attach.jpg
-4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112920.jpg
-4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112926.jpg
-4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112934.jpg
-4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112938.jpg
-4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112950.jpg
-4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112954.jpg
-4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_113000.jpg
-4,train,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,D:\data science\CNN\C31 B double attach\C31 b double attach.jpg
-4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114321.jpg
-4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114326.jpg
-4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114331.jpg
-4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114344.jpg
-4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114348.jpg
-4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114351.jpg
-4,train,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114356.jpg
-4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113835.jpg
-4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113838.jpg
-4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113846.jpg
-4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113854.jpg
-4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113857.jpg
-4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113901.jpg
-4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113909.jpg
-4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113912.jpg
-4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114047.jpg
-4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114050.jpg
-4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114054.jpg
-4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114058.jpg
-4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114111.jpg
-4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114115.jpg
-4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114120.jpg
-4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114127.jpg
-5,train,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,D:\data science\CNN\A33 A single attach\A33 A Single attach. .jpg
-5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104751.jpg
-5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104756.jpg
-5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104801.jpg
-5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104805.jpg
-5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,D:\data science\CNN\A33 A single attach\IMG_20260918_104828.jpg
-5,train,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,D:\data science\CNN\A33 C double common\A33 C double Common.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105110.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105117.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105124.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105135.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105143.jpg
-5,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105157.jpg
-5,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105203.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105215.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105219.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105224.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105241.jpg
-5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,D:\data science\CNN\A33 C double common\IMG_20260918_105245.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,D:\data science\CNN\A34 A single attach\A34 A Single attach.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104319.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104324.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104330.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104334.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104337.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104358.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104414.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104444.jpg
-5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,D:\data science\CNN\A34 A single attach\IMG_20260918_104514.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,D:\data science\CNN\A34 B double attach\A34 B double attach.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103815.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103820.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103827.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103844.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103854.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_103858.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104015.jpg
-5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,D:\data science\CNN\A34 B double attach\IMG_20260918_104031.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,D:\data science\CNN\B41 B double attach\B41  B Double attach.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,D:\data science\CNN\B41 B double attach\B41 B double attach. .jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111705.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111711.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111715.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111718.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111720.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111728.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111733.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111738.jpg
-5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,D:\data science\CNN\B41 B double attach\IMG_20260918_111743.jpg
-5,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_110949.jpg
-5,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111002.jpg
-5,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111005.jpg
-5,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111008.jpg
-5,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111013.jpg
-5,train,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,D:\data science\CNN\B41 C double common\B 41 C  double common.jpg
-5,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111123.jpg
-5,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111127.jpg
-5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111131.jpg
-5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111134.jpg
-5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111147.jpg
-5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111209.jpg
-5,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111216.jpg
-5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,D:\data science\CNN\B41 C double common\IMG_20260918_111220.jpg
-5,train,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,D:\data science\CNN\B41 D single attach\B41 D single attach.jpg
-5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111416.jpg
-5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111425.jpg
-5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111442.jpg
-5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111500.jpg
-5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111507.jpg
-5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111517.jpg
-5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,D:\data science\CNN\B41 D single attach\IMG_20260918_111527.jpg
-5,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113220.jpg
-5,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113224.jpg
-5,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113231.jpg
-5,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113239.jpg
-5,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113243.jpg
-5,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,D:\data science\CNN\C21 A single common\IMG_20260918_113250.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,D:\data science\CNN\C21 B double attach\C21 B double attach.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113357.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113400.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113408.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113413.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113416.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113422.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113430.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113433.jpg
-5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,D:\data science\CNN\C21 B double attach\IMG_20260918_113438.jpg
-5,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112605.jpg
-5,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112611.jpg
-5,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112616.jpg
-5,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112620.jpg
-5,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112629.jpg
-5,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112638.jpg
-5,train,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,D:\data science\CNN\C21 C double common\C21 C double Common.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112714.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112717.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112720.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112725.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112727.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112741.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112745.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112750.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112755.jpg
-5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,D:\data science\CNN\C21 C double common\IMG_20260918_112759.jpg
-5,train,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,D:\data science\CNN\C21 D single attach\C21 D single attach.jpg
-5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112920.jpg
-5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112926.jpg
-5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112934.jpg
-5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112938.jpg
-5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112950.jpg
-5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_112954.jpg
-5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,D:\data science\CNN\C21 D single attach\IMG_20260918_113000.jpg
-5,test,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,D:\data science\CNN\C31 B double attach\C31 b double attach.jpg
-5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114321.jpg
-5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114326.jpg
-5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114331.jpg
-5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114344.jpg
-5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114348.jpg
-5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114351.jpg
-5,test,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,D:\data science\CNN\C31 B double attach\IMG_20260918_114356.jpg
-5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113835.jpg
-5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113838.jpg
-5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113846.jpg
-5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113854.jpg
-5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113857.jpg
-5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113901.jpg
-5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113909.jpg
-5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,D:\data science\CNN\C31 C double Common\IMG_20260918_113912.jpg
-5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114047.jpg
-5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114050.jpg
-5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114054.jpg
-5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114058.jpg
-5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114111.jpg
-5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114115.jpg
-5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114120.jpg
-5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,D:\data science\CNN\C31 D single attach\IMG_20260918_114127.jpg
+1,test,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,A33 A single attach/A33 A Single attach. .jpg
+1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,A33 A single attach/IMG_20260918_104751.jpg
+1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,A33 A single attach/IMG_20260918_104756.jpg
+1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,A33 A single attach/IMG_20260918_104801.jpg
+1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,A33 A single attach/IMG_20260918_104805.jpg
+1,test,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,A33 A single attach/IMG_20260918_104828.jpg
+1,test,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,A33 C double common/A33 C double Common.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,A33 C double common/IMG_20260918_105110.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,A33 C double common/IMG_20260918_105117.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,A33 C double common/IMG_20260918_105124.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,A33 C double common/IMG_20260918_105135.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,A33 C double common/IMG_20260918_105143.jpg
+1,test,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,A33 C double common/IMG_20260918_105157.jpg
+1,test,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,A33 C double common/IMG_20260918_105203.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,A33 C double common/IMG_20260918_105215.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,A33 C double common/IMG_20260918_105219.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,A33 C double common/IMG_20260918_105224.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,A33 C double common/IMG_20260918_105241.jpg
+1,test,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,A33 C double common/IMG_20260918_105245.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,A34 A single attach/A34 A Single attach.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,A34 A single attach/IMG_20260918_104319.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,A34 A single attach/IMG_20260918_104324.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,A34 A single attach/IMG_20260918_104330.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,A34 A single attach/IMG_20260918_104334.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,A34 A single attach/IMG_20260918_104337.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,A34 A single attach/IMG_20260918_104358.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,A34 A single attach/IMG_20260918_104414.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,A34 A single attach/IMG_20260918_104444.jpg
+1,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,A34 A single attach/IMG_20260918_104514.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,A34 B double attach/A34 B double attach.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,A34 B double attach/IMG_20260918_103815.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,A34 B double attach/IMG_20260918_103820.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,A34 B double attach/IMG_20260918_103827.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,A34 B double attach/IMG_20260918_103844.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,A34 B double attach/IMG_20260918_103854.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,A34 B double attach/IMG_20260918_103858.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,A34 B double attach/IMG_20260918_104015.jpg
+1,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,A34 B double attach/IMG_20260918_104031.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,B41 B double attach/B41  B Double attach.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,B41 B double attach/B41 B double attach. .jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,B41 B double attach/IMG_20260918_111705.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,B41 B double attach/IMG_20260918_111711.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,B41 B double attach/IMG_20260918_111715.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,B41 B double attach/IMG_20260918_111718.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,B41 B double attach/IMG_20260918_111720.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,B41 B double attach/IMG_20260918_111728.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,B41 B double attach/IMG_20260918_111733.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,B41 B double attach/IMG_20260918_111738.jpg
+1,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,B41 B double attach/IMG_20260918_111743.jpg
+1,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,B41 C double common/Kitchen/IMG_20260918_110949.jpg
+1,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,B41 C double common/Kitchen/IMG_20260918_111002.jpg
+1,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,B41 C double common/Kitchen/IMG_20260918_111005.jpg
+1,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,B41 C double common/Kitchen/IMG_20260918_111008.jpg
+1,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,B41 C double common/Kitchen/IMG_20260918_111013.jpg
+1,train,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,B41 C double common/B 41 C  double common.jpg
+1,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,B41 C double common/IMG_20260918_111123.jpg
+1,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,B41 C double common/IMG_20260918_111127.jpg
+1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,B41 C double common/IMG_20260918_111131.jpg
+1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,B41 C double common/IMG_20260918_111134.jpg
+1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,B41 C double common/IMG_20260918_111147.jpg
+1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,B41 C double common/IMG_20260918_111209.jpg
+1,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,B41 C double common/IMG_20260918_111216.jpg
+1,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,B41 C double common/IMG_20260918_111220.jpg
+1,train,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,B41 D single attach/B41 D single attach.jpg
+1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,B41 D single attach/IMG_20260918_111416.jpg
+1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,B41 D single attach/IMG_20260918_111425.jpg
+1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,B41 D single attach/IMG_20260918_111442.jpg
+1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,B41 D single attach/IMG_20260918_111500.jpg
+1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,B41 D single attach/IMG_20260918_111507.jpg
+1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,B41 D single attach/IMG_20260918_111517.jpg
+1,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,B41 D single attach/IMG_20260918_111527.jpg
+1,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,C21 A single common/IMG_20260918_113220.jpg
+1,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,C21 A single common/IMG_20260918_113224.jpg
+1,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,C21 A single common/IMG_20260918_113231.jpg
+1,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,C21 A single common/IMG_20260918_113239.jpg
+1,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,C21 A single common/IMG_20260918_113243.jpg
+1,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,C21 A single common/IMG_20260918_113250.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,C21 B double attach/C21 B double attach.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,C21 B double attach/IMG_20260918_113357.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,C21 B double attach/IMG_20260918_113400.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,C21 B double attach/IMG_20260918_113408.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,C21 B double attach/IMG_20260918_113413.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,C21 B double attach/IMG_20260918_113416.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,C21 B double attach/IMG_20260918_113422.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,C21 B double attach/IMG_20260918_113430.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,C21 B double attach/IMG_20260918_113433.jpg
+1,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,C21 B double attach/IMG_20260918_113438.jpg
+1,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,C21 C double common/Kitchen/IMG_20260918_112605.jpg
+1,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,C21 C double common/Kitchen/IMG_20260918_112611.jpg
+1,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,C21 C double common/Kitchen/IMG_20260918_112616.jpg
+1,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,C21 C double common/Kitchen/IMG_20260918_112620.jpg
+1,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,C21 C double common/Kitchen/IMG_20260918_112629.jpg
+1,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,C21 C double common/Kitchen/IMG_20260918_112638.jpg
+1,train,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,C21 C double common/C21 C double Common.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,C21 C double common/IMG_20260918_112714.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,C21 C double common/IMG_20260918_112717.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,C21 C double common/IMG_20260918_112720.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,C21 C double common/IMG_20260918_112725.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,C21 C double common/IMG_20260918_112727.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,C21 C double common/IMG_20260918_112741.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,C21 C double common/IMG_20260918_112745.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,C21 C double common/IMG_20260918_112750.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,C21 C double common/IMG_20260918_112755.jpg
+1,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,C21 C double common/IMG_20260918_112759.jpg
+1,train,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,C21 D single attach/C21 D single attach.jpg
+1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,C21 D single attach/IMG_20260918_112920.jpg
+1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,C21 D single attach/IMG_20260918_112926.jpg
+1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,C21 D single attach/IMG_20260918_112934.jpg
+1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,C21 D single attach/IMG_20260918_112938.jpg
+1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,C21 D single attach/IMG_20260918_112950.jpg
+1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,C21 D single attach/IMG_20260918_112954.jpg
+1,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,C21 D single attach/IMG_20260918_113000.jpg
+1,train,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,C31 B double attach/C31 b double attach.jpg
+1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,C31 B double attach/IMG_20260918_114321.jpg
+1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,C31 B double attach/IMG_20260918_114326.jpg
+1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,C31 B double attach/IMG_20260918_114331.jpg
+1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,C31 B double attach/IMG_20260918_114344.jpg
+1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,C31 B double attach/IMG_20260918_114348.jpg
+1,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,C31 B double attach/IMG_20260918_114351.jpg
+1,train,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,C31 B double attach/IMG_20260918_114356.jpg
+1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,C31 C double Common/IMG_20260918_113835.jpg
+1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,C31 C double Common/IMG_20260918_113838.jpg
+1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,C31 C double Common/IMG_20260918_113846.jpg
+1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,C31 C double Common/IMG_20260918_113854.jpg
+1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,C31 C double Common/IMG_20260918_113857.jpg
+1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,C31 C double Common/IMG_20260918_113901.jpg
+1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,C31 C double Common/IMG_20260918_113909.jpg
+1,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,C31 C double Common/IMG_20260918_113912.jpg
+1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,C31 D single attach/IMG_20260918_114047.jpg
+1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,C31 D single attach/IMG_20260918_114050.jpg
+1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,C31 D single attach/IMG_20260918_114054.jpg
+1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,C31 D single attach/IMG_20260918_114058.jpg
+1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,C31 D single attach/IMG_20260918_114111.jpg
+1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,C31 D single attach/IMG_20260918_114115.jpg
+1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,C31 D single attach/IMG_20260918_114120.jpg
+1,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,C31 D single attach/IMG_20260918_114127.jpg
+2,train,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,A33 A single attach/A33 A Single attach. .jpg
+2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,A33 A single attach/IMG_20260918_104751.jpg
+2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,A33 A single attach/IMG_20260918_104756.jpg
+2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,A33 A single attach/IMG_20260918_104801.jpg
+2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,A33 A single attach/IMG_20260918_104805.jpg
+2,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,A33 A single attach/IMG_20260918_104828.jpg
+2,train,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,A33 C double common/A33 C double Common.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,A33 C double common/IMG_20260918_105110.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,A33 C double common/IMG_20260918_105117.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,A33 C double common/IMG_20260918_105124.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,A33 C double common/IMG_20260918_105135.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,A33 C double common/IMG_20260918_105143.jpg
+2,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,A33 C double common/IMG_20260918_105157.jpg
+2,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,A33 C double common/IMG_20260918_105203.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,A33 C double common/IMG_20260918_105215.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,A33 C double common/IMG_20260918_105219.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,A33 C double common/IMG_20260918_105224.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,A33 C double common/IMG_20260918_105241.jpg
+2,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,A33 C double common/IMG_20260918_105245.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,A34 A single attach/A34 A Single attach.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,A34 A single attach/IMG_20260918_104319.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,A34 A single attach/IMG_20260918_104324.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,A34 A single attach/IMG_20260918_104330.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,A34 A single attach/IMG_20260918_104334.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,A34 A single attach/IMG_20260918_104337.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,A34 A single attach/IMG_20260918_104358.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,A34 A single attach/IMG_20260918_104414.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,A34 A single attach/IMG_20260918_104444.jpg
+2,test,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,A34 A single attach/IMG_20260918_104514.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,A34 B double attach/A34 B double attach.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,A34 B double attach/IMG_20260918_103815.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,A34 B double attach/IMG_20260918_103820.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,A34 B double attach/IMG_20260918_103827.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,A34 B double attach/IMG_20260918_103844.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,A34 B double attach/IMG_20260918_103854.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,A34 B double attach/IMG_20260918_103858.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,A34 B double attach/IMG_20260918_104015.jpg
+2,test,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,A34 B double attach/IMG_20260918_104031.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,B41 B double attach/B41  B Double attach.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,B41 B double attach/B41 B double attach. .jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,B41 B double attach/IMG_20260918_111705.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,B41 B double attach/IMG_20260918_111711.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,B41 B double attach/IMG_20260918_111715.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,B41 B double attach/IMG_20260918_111718.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,B41 B double attach/IMG_20260918_111720.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,B41 B double attach/IMG_20260918_111728.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,B41 B double attach/IMG_20260918_111733.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,B41 B double attach/IMG_20260918_111738.jpg
+2,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,B41 B double attach/IMG_20260918_111743.jpg
+2,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,B41 C double common/Kitchen/IMG_20260918_110949.jpg
+2,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,B41 C double common/Kitchen/IMG_20260918_111002.jpg
+2,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,B41 C double common/Kitchen/IMG_20260918_111005.jpg
+2,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,B41 C double common/Kitchen/IMG_20260918_111008.jpg
+2,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,B41 C double common/Kitchen/IMG_20260918_111013.jpg
+2,train,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,B41 C double common/B 41 C  double common.jpg
+2,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,B41 C double common/IMG_20260918_111123.jpg
+2,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,B41 C double common/IMG_20260918_111127.jpg
+2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,B41 C double common/IMG_20260918_111131.jpg
+2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,B41 C double common/IMG_20260918_111134.jpg
+2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,B41 C double common/IMG_20260918_111147.jpg
+2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,B41 C double common/IMG_20260918_111209.jpg
+2,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,B41 C double common/IMG_20260918_111216.jpg
+2,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,B41 C double common/IMG_20260918_111220.jpg
+2,train,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,B41 D single attach/B41 D single attach.jpg
+2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,B41 D single attach/IMG_20260918_111416.jpg
+2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,B41 D single attach/IMG_20260918_111425.jpg
+2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,B41 D single attach/IMG_20260918_111442.jpg
+2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,B41 D single attach/IMG_20260918_111500.jpg
+2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,B41 D single attach/IMG_20260918_111507.jpg
+2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,B41 D single attach/IMG_20260918_111517.jpg
+2,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,B41 D single attach/IMG_20260918_111527.jpg
+2,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,C21 A single common/IMG_20260918_113220.jpg
+2,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,C21 A single common/IMG_20260918_113224.jpg
+2,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,C21 A single common/IMG_20260918_113231.jpg
+2,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,C21 A single common/IMG_20260918_113239.jpg
+2,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,C21 A single common/IMG_20260918_113243.jpg
+2,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,C21 A single common/IMG_20260918_113250.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,C21 B double attach/C21 B double attach.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,C21 B double attach/IMG_20260918_113357.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,C21 B double attach/IMG_20260918_113400.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,C21 B double attach/IMG_20260918_113408.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,C21 B double attach/IMG_20260918_113413.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,C21 B double attach/IMG_20260918_113416.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,C21 B double attach/IMG_20260918_113422.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,C21 B double attach/IMG_20260918_113430.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,C21 B double attach/IMG_20260918_113433.jpg
+2,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,C21 B double attach/IMG_20260918_113438.jpg
+2,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,C21 C double common/Kitchen/IMG_20260918_112605.jpg
+2,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,C21 C double common/Kitchen/IMG_20260918_112611.jpg
+2,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,C21 C double common/Kitchen/IMG_20260918_112616.jpg
+2,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,C21 C double common/Kitchen/IMG_20260918_112620.jpg
+2,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,C21 C double common/Kitchen/IMG_20260918_112629.jpg
+2,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,C21 C double common/Kitchen/IMG_20260918_112638.jpg
+2,train,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,C21 C double common/C21 C double Common.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,C21 C double common/IMG_20260918_112714.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,C21 C double common/IMG_20260918_112717.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,C21 C double common/IMG_20260918_112720.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,C21 C double common/IMG_20260918_112725.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,C21 C double common/IMG_20260918_112727.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,C21 C double common/IMG_20260918_112741.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,C21 C double common/IMG_20260918_112745.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,C21 C double common/IMG_20260918_112750.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,C21 C double common/IMG_20260918_112755.jpg
+2,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,C21 C double common/IMG_20260918_112759.jpg
+2,train,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,C21 D single attach/C21 D single attach.jpg
+2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,C21 D single attach/IMG_20260918_112920.jpg
+2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,C21 D single attach/IMG_20260918_112926.jpg
+2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,C21 D single attach/IMG_20260918_112934.jpg
+2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,C21 D single attach/IMG_20260918_112938.jpg
+2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,C21 D single attach/IMG_20260918_112950.jpg
+2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,C21 D single attach/IMG_20260918_112954.jpg
+2,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,C21 D single attach/IMG_20260918_113000.jpg
+2,train,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,C31 B double attach/C31 b double attach.jpg
+2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,C31 B double attach/IMG_20260918_114321.jpg
+2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,C31 B double attach/IMG_20260918_114326.jpg
+2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,C31 B double attach/IMG_20260918_114331.jpg
+2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,C31 B double attach/IMG_20260918_114344.jpg
+2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,C31 B double attach/IMG_20260918_114348.jpg
+2,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,C31 B double attach/IMG_20260918_114351.jpg
+2,train,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,C31 B double attach/IMG_20260918_114356.jpg
+2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,C31 C double Common/IMG_20260918_113835.jpg
+2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,C31 C double Common/IMG_20260918_113838.jpg
+2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,C31 C double Common/IMG_20260918_113846.jpg
+2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,C31 C double Common/IMG_20260918_113854.jpg
+2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,C31 C double Common/IMG_20260918_113857.jpg
+2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,C31 C double Common/IMG_20260918_113901.jpg
+2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,C31 C double Common/IMG_20260918_113909.jpg
+2,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,C31 C double Common/IMG_20260918_113912.jpg
+2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,C31 D single attach/IMG_20260918_114047.jpg
+2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,C31 D single attach/IMG_20260918_114050.jpg
+2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,C31 D single attach/IMG_20260918_114054.jpg
+2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,C31 D single attach/IMG_20260918_114058.jpg
+2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,C31 D single attach/IMG_20260918_114111.jpg
+2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,C31 D single attach/IMG_20260918_114115.jpg
+2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,C31 D single attach/IMG_20260918_114120.jpg
+2,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,C31 D single attach/IMG_20260918_114127.jpg
+3,train,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,A33 A single attach/A33 A Single attach. .jpg
+3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,A33 A single attach/IMG_20260918_104751.jpg
+3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,A33 A single attach/IMG_20260918_104756.jpg
+3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,A33 A single attach/IMG_20260918_104801.jpg
+3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,A33 A single attach/IMG_20260918_104805.jpg
+3,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,A33 A single attach/IMG_20260918_104828.jpg
+3,train,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,A33 C double common/A33 C double Common.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,A33 C double common/IMG_20260918_105110.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,A33 C double common/IMG_20260918_105117.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,A33 C double common/IMG_20260918_105124.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,A33 C double common/IMG_20260918_105135.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,A33 C double common/IMG_20260918_105143.jpg
+3,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,A33 C double common/IMG_20260918_105157.jpg
+3,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,A33 C double common/IMG_20260918_105203.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,A33 C double common/IMG_20260918_105215.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,A33 C double common/IMG_20260918_105219.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,A33 C double common/IMG_20260918_105224.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,A33 C double common/IMG_20260918_105241.jpg
+3,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,A33 C double common/IMG_20260918_105245.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,A34 A single attach/A34 A Single attach.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,A34 A single attach/IMG_20260918_104319.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,A34 A single attach/IMG_20260918_104324.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,A34 A single attach/IMG_20260918_104330.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,A34 A single attach/IMG_20260918_104334.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,A34 A single attach/IMG_20260918_104337.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,A34 A single attach/IMG_20260918_104358.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,A34 A single attach/IMG_20260918_104414.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,A34 A single attach/IMG_20260918_104444.jpg
+3,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,A34 A single attach/IMG_20260918_104514.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,A34 B double attach/A34 B double attach.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,A34 B double attach/IMG_20260918_103815.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,A34 B double attach/IMG_20260918_103820.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,A34 B double attach/IMG_20260918_103827.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,A34 B double attach/IMG_20260918_103844.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,A34 B double attach/IMG_20260918_103854.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,A34 B double attach/IMG_20260918_103858.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,A34 B double attach/IMG_20260918_104015.jpg
+3,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,A34 B double attach/IMG_20260918_104031.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,B41 B double attach/B41  B Double attach.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,B41 B double attach/B41 B double attach. .jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,B41 B double attach/IMG_20260918_111705.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,B41 B double attach/IMG_20260918_111711.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,B41 B double attach/IMG_20260918_111715.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,B41 B double attach/IMG_20260918_111718.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,B41 B double attach/IMG_20260918_111720.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,B41 B double attach/IMG_20260918_111728.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,B41 B double attach/IMG_20260918_111733.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,B41 B double attach/IMG_20260918_111738.jpg
+3,test,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,B41 B double attach/IMG_20260918_111743.jpg
+3,test,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,B41 C double common/Kitchen/IMG_20260918_110949.jpg
+3,test,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,B41 C double common/Kitchen/IMG_20260918_111002.jpg
+3,test,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,B41 C double common/Kitchen/IMG_20260918_111005.jpg
+3,test,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,B41 C double common/Kitchen/IMG_20260918_111008.jpg
+3,test,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,B41 C double common/Kitchen/IMG_20260918_111013.jpg
+3,test,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,B41 C double common/B 41 C  double common.jpg
+3,test,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,B41 C double common/IMG_20260918_111123.jpg
+3,test,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,B41 C double common/IMG_20260918_111127.jpg
+3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,B41 C double common/IMG_20260918_111131.jpg
+3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,B41 C double common/IMG_20260918_111134.jpg
+3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,B41 C double common/IMG_20260918_111147.jpg
+3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,B41 C double common/IMG_20260918_111209.jpg
+3,test,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,B41 C double common/IMG_20260918_111216.jpg
+3,test,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,B41 C double common/IMG_20260918_111220.jpg
+3,test,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,B41 D single attach/B41 D single attach.jpg
+3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,B41 D single attach/IMG_20260918_111416.jpg
+3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,B41 D single attach/IMG_20260918_111425.jpg
+3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,B41 D single attach/IMG_20260918_111442.jpg
+3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,B41 D single attach/IMG_20260918_111500.jpg
+3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,B41 D single attach/IMG_20260918_111507.jpg
+3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,B41 D single attach/IMG_20260918_111517.jpg
+3,test,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,B41 D single attach/IMG_20260918_111527.jpg
+3,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,C21 A single common/IMG_20260918_113220.jpg
+3,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,C21 A single common/IMG_20260918_113224.jpg
+3,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,C21 A single common/IMG_20260918_113231.jpg
+3,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,C21 A single common/IMG_20260918_113239.jpg
+3,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,C21 A single common/IMG_20260918_113243.jpg
+3,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,C21 A single common/IMG_20260918_113250.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,C21 B double attach/C21 B double attach.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,C21 B double attach/IMG_20260918_113357.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,C21 B double attach/IMG_20260918_113400.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,C21 B double attach/IMG_20260918_113408.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,C21 B double attach/IMG_20260918_113413.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,C21 B double attach/IMG_20260918_113416.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,C21 B double attach/IMG_20260918_113422.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,C21 B double attach/IMG_20260918_113430.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,C21 B double attach/IMG_20260918_113433.jpg
+3,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,C21 B double attach/IMG_20260918_113438.jpg
+3,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,C21 C double common/Kitchen/IMG_20260918_112605.jpg
+3,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,C21 C double common/Kitchen/IMG_20260918_112611.jpg
+3,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,C21 C double common/Kitchen/IMG_20260918_112616.jpg
+3,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,C21 C double common/Kitchen/IMG_20260918_112620.jpg
+3,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,C21 C double common/Kitchen/IMG_20260918_112629.jpg
+3,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,C21 C double common/Kitchen/IMG_20260918_112638.jpg
+3,train,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,C21 C double common/C21 C double Common.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,C21 C double common/IMG_20260918_112714.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,C21 C double common/IMG_20260918_112717.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,C21 C double common/IMG_20260918_112720.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,C21 C double common/IMG_20260918_112725.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,C21 C double common/IMG_20260918_112727.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,C21 C double common/IMG_20260918_112741.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,C21 C double common/IMG_20260918_112745.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,C21 C double common/IMG_20260918_112750.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,C21 C double common/IMG_20260918_112755.jpg
+3,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,C21 C double common/IMG_20260918_112759.jpg
+3,train,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,C21 D single attach/C21 D single attach.jpg
+3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,C21 D single attach/IMG_20260918_112920.jpg
+3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,C21 D single attach/IMG_20260918_112926.jpg
+3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,C21 D single attach/IMG_20260918_112934.jpg
+3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,C21 D single attach/IMG_20260918_112938.jpg
+3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,C21 D single attach/IMG_20260918_112950.jpg
+3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,C21 D single attach/IMG_20260918_112954.jpg
+3,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,C21 D single attach/IMG_20260918_113000.jpg
+3,train,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,C31 B double attach/C31 b double attach.jpg
+3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,C31 B double attach/IMG_20260918_114321.jpg
+3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,C31 B double attach/IMG_20260918_114326.jpg
+3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,C31 B double attach/IMG_20260918_114331.jpg
+3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,C31 B double attach/IMG_20260918_114344.jpg
+3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,C31 B double attach/IMG_20260918_114348.jpg
+3,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,C31 B double attach/IMG_20260918_114351.jpg
+3,train,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,C31 B double attach/IMG_20260918_114356.jpg
+3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,C31 C double Common/IMG_20260918_113835.jpg
+3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,C31 C double Common/IMG_20260918_113838.jpg
+3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,C31 C double Common/IMG_20260918_113846.jpg
+3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,C31 C double Common/IMG_20260918_113854.jpg
+3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,C31 C double Common/IMG_20260918_113857.jpg
+3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,C31 C double Common/IMG_20260918_113901.jpg
+3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,C31 C double Common/IMG_20260918_113909.jpg
+3,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,C31 C double Common/IMG_20260918_113912.jpg
+3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,C31 D single attach/IMG_20260918_114047.jpg
+3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,C31 D single attach/IMG_20260918_114050.jpg
+3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,C31 D single attach/IMG_20260918_114054.jpg
+3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,C31 D single attach/IMG_20260918_114058.jpg
+3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,C31 D single attach/IMG_20260918_114111.jpg
+3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,C31 D single attach/IMG_20260918_114115.jpg
+3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,C31 D single attach/IMG_20260918_114120.jpg
+3,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,C31 D single attach/IMG_20260918_114127.jpg
+4,train,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,A33 A single attach/A33 A Single attach. .jpg
+4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,A33 A single attach/IMG_20260918_104751.jpg
+4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,A33 A single attach/IMG_20260918_104756.jpg
+4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,A33 A single attach/IMG_20260918_104801.jpg
+4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,A33 A single attach/IMG_20260918_104805.jpg
+4,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,A33 A single attach/IMG_20260918_104828.jpg
+4,train,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,A33 C double common/A33 C double Common.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,A33 C double common/IMG_20260918_105110.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,A33 C double common/IMG_20260918_105117.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,A33 C double common/IMG_20260918_105124.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,A33 C double common/IMG_20260918_105135.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,A33 C double common/IMG_20260918_105143.jpg
+4,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,A33 C double common/IMG_20260918_105157.jpg
+4,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,A33 C double common/IMG_20260918_105203.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,A33 C double common/IMG_20260918_105215.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,A33 C double common/IMG_20260918_105219.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,A33 C double common/IMG_20260918_105224.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,A33 C double common/IMG_20260918_105241.jpg
+4,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,A33 C double common/IMG_20260918_105245.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,A34 A single attach/A34 A Single attach.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,A34 A single attach/IMG_20260918_104319.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,A34 A single attach/IMG_20260918_104324.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,A34 A single attach/IMG_20260918_104330.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,A34 A single attach/IMG_20260918_104334.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,A34 A single attach/IMG_20260918_104337.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,A34 A single attach/IMG_20260918_104358.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,A34 A single attach/IMG_20260918_104414.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,A34 A single attach/IMG_20260918_104444.jpg
+4,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,A34 A single attach/IMG_20260918_104514.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,A34 B double attach/A34 B double attach.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,A34 B double attach/IMG_20260918_103815.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,A34 B double attach/IMG_20260918_103820.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,A34 B double attach/IMG_20260918_103827.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,A34 B double attach/IMG_20260918_103844.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,A34 B double attach/IMG_20260918_103854.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,A34 B double attach/IMG_20260918_103858.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,A34 B double attach/IMG_20260918_104015.jpg
+4,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,A34 B double attach/IMG_20260918_104031.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,B41 B double attach/B41  B Double attach.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,B41 B double attach/B41 B double attach. .jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,B41 B double attach/IMG_20260918_111705.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,B41 B double attach/IMG_20260918_111711.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,B41 B double attach/IMG_20260918_111715.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,B41 B double attach/IMG_20260918_111718.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,B41 B double attach/IMG_20260918_111720.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,B41 B double attach/IMG_20260918_111728.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,B41 B double attach/IMG_20260918_111733.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,B41 B double attach/IMG_20260918_111738.jpg
+4,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,B41 B double attach/IMG_20260918_111743.jpg
+4,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,B41 C double common/Kitchen/IMG_20260918_110949.jpg
+4,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,B41 C double common/Kitchen/IMG_20260918_111002.jpg
+4,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,B41 C double common/Kitchen/IMG_20260918_111005.jpg
+4,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,B41 C double common/Kitchen/IMG_20260918_111008.jpg
+4,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,B41 C double common/Kitchen/IMG_20260918_111013.jpg
+4,train,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,B41 C double common/B 41 C  double common.jpg
+4,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,B41 C double common/IMG_20260918_111123.jpg
+4,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,B41 C double common/IMG_20260918_111127.jpg
+4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,B41 C double common/IMG_20260918_111131.jpg
+4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,B41 C double common/IMG_20260918_111134.jpg
+4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,B41 C double common/IMG_20260918_111147.jpg
+4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,B41 C double common/IMG_20260918_111209.jpg
+4,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,B41 C double common/IMG_20260918_111216.jpg
+4,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,B41 C double common/IMG_20260918_111220.jpg
+4,train,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,B41 D single attach/B41 D single attach.jpg
+4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,B41 D single attach/IMG_20260918_111416.jpg
+4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,B41 D single attach/IMG_20260918_111425.jpg
+4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,B41 D single attach/IMG_20260918_111442.jpg
+4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,B41 D single attach/IMG_20260918_111500.jpg
+4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,B41 D single attach/IMG_20260918_111507.jpg
+4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,B41 D single attach/IMG_20260918_111517.jpg
+4,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,B41 D single attach/IMG_20260918_111527.jpg
+4,test,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,C21 A single common/IMG_20260918_113220.jpg
+4,test,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,C21 A single common/IMG_20260918_113224.jpg
+4,test,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,C21 A single common/IMG_20260918_113231.jpg
+4,test,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,C21 A single common/IMG_20260918_113239.jpg
+4,test,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,C21 A single common/IMG_20260918_113243.jpg
+4,test,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,C21 A single common/IMG_20260918_113250.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,C21 B double attach/C21 B double attach.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,C21 B double attach/IMG_20260918_113357.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,C21 B double attach/IMG_20260918_113400.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,C21 B double attach/IMG_20260918_113408.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,C21 B double attach/IMG_20260918_113413.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,C21 B double attach/IMG_20260918_113416.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,C21 B double attach/IMG_20260918_113422.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,C21 B double attach/IMG_20260918_113430.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,C21 B double attach/IMG_20260918_113433.jpg
+4,test,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,C21 B double attach/IMG_20260918_113438.jpg
+4,test,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,C21 C double common/Kitchen/IMG_20260918_112605.jpg
+4,test,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,C21 C double common/Kitchen/IMG_20260918_112611.jpg
+4,test,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,C21 C double common/Kitchen/IMG_20260918_112616.jpg
+4,test,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,C21 C double common/Kitchen/IMG_20260918_112620.jpg
+4,test,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,C21 C double common/Kitchen/IMG_20260918_112629.jpg
+4,test,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,C21 C double common/Kitchen/IMG_20260918_112638.jpg
+4,test,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,C21 C double common/C21 C double Common.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,C21 C double common/IMG_20260918_112714.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,C21 C double common/IMG_20260918_112717.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,C21 C double common/IMG_20260918_112720.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,C21 C double common/IMG_20260918_112725.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,C21 C double common/IMG_20260918_112727.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,C21 C double common/IMG_20260918_112741.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,C21 C double common/IMG_20260918_112745.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,C21 C double common/IMG_20260918_112750.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,C21 C double common/IMG_20260918_112755.jpg
+4,test,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,C21 C double common/IMG_20260918_112759.jpg
+4,test,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,C21 D single attach/C21 D single attach.jpg
+4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,C21 D single attach/IMG_20260918_112920.jpg
+4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,C21 D single attach/IMG_20260918_112926.jpg
+4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,C21 D single attach/IMG_20260918_112934.jpg
+4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,C21 D single attach/IMG_20260918_112938.jpg
+4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,C21 D single attach/IMG_20260918_112950.jpg
+4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,C21 D single attach/IMG_20260918_112954.jpg
+4,test,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,C21 D single attach/IMG_20260918_113000.jpg
+4,train,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,C31 B double attach/C31 b double attach.jpg
+4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,C31 B double attach/IMG_20260918_114321.jpg
+4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,C31 B double attach/IMG_20260918_114326.jpg
+4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,C31 B double attach/IMG_20260918_114331.jpg
+4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,C31 B double attach/IMG_20260918_114344.jpg
+4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,C31 B double attach/IMG_20260918_114348.jpg
+4,train,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,C31 B double attach/IMG_20260918_114351.jpg
+4,train,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,C31 B double attach/IMG_20260918_114356.jpg
+4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,C31 C double Common/IMG_20260918_113835.jpg
+4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,C31 C double Common/IMG_20260918_113838.jpg
+4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,C31 C double Common/IMG_20260918_113846.jpg
+4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,C31 C double Common/IMG_20260918_113854.jpg
+4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,C31 C double Common/IMG_20260918_113857.jpg
+4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,C31 C double Common/IMG_20260918_113901.jpg
+4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,C31 C double Common/IMG_20260918_113909.jpg
+4,train,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,C31 C double Common/IMG_20260918_113912.jpg
+4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,C31 D single attach/IMG_20260918_114047.jpg
+4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,C31 D single attach/IMG_20260918_114050.jpg
+4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,C31 D single attach/IMG_20260918_114054.jpg
+4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,C31 D single attach/IMG_20260918_114058.jpg
+4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,C31 D single attach/IMG_20260918_114111.jpg
+4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,C31 D single attach/IMG_20260918_114115.jpg
+4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,C31 D single attach/IMG_20260918_114120.jpg
+4,train,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,C31 D single attach/IMG_20260918_114127.jpg
+5,train,A33,A33 A single attach,Room,CLEAN,A33 A Single attach. .jpg,A33 A single attach/A33 A Single attach. .jpg
+5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104751.jpg,A33 A single attach/IMG_20260918_104751.jpg
+5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104756.jpg,A33 A single attach/IMG_20260918_104756.jpg
+5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104801.jpg,A33 A single attach/IMG_20260918_104801.jpg
+5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104805.jpg,A33 A single attach/IMG_20260918_104805.jpg
+5,train,A33,A33 A single attach,Room,CLEAN,IMG_20260918_104828.jpg,A33 A single attach/IMG_20260918_104828.jpg
+5,train,A33,A33 C double common,Room,CLEAN,A33 C double Common.jpg,A33 C double common/A33 C double Common.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105110.jpg,A33 C double common/IMG_20260918_105110.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105117.jpg,A33 C double common/IMG_20260918_105117.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105124.jpg,A33 C double common/IMG_20260918_105124.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105135.jpg,A33 C double common/IMG_20260918_105135.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105143.jpg,A33 C double common/IMG_20260918_105143.jpg
+5,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105157.jpg,A33 C double common/IMG_20260918_105157.jpg
+5,train,A33,A33 C double common,Room,NOT_CLEAN,IMG_20260918_105203.jpg,A33 C double common/IMG_20260918_105203.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105215.jpg,A33 C double common/IMG_20260918_105215.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105219.jpg,A33 C double common/IMG_20260918_105219.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105224.jpg,A33 C double common/IMG_20260918_105224.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105241.jpg,A33 C double common/IMG_20260918_105241.jpg
+5,train,A33,A33 C double common,Room,CLEAN,IMG_20260918_105245.jpg,A33 C double common/IMG_20260918_105245.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,A34 A Single attach.jpg,A34 A single attach/A34 A Single attach.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104319.jpg,A34 A single attach/IMG_20260918_104319.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104324.jpg,A34 A single attach/IMG_20260918_104324.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104330.jpg,A34 A single attach/IMG_20260918_104330.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104334.jpg,A34 A single attach/IMG_20260918_104334.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104337.jpg,A34 A single attach/IMG_20260918_104337.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104358.jpg,A34 A single attach/IMG_20260918_104358.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104414.jpg,A34 A single attach/IMG_20260918_104414.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104444.jpg,A34 A single attach/IMG_20260918_104444.jpg
+5,train,A34,A34 A single attach,Room,CLEAN,IMG_20260918_104514.jpg,A34 A single attach/IMG_20260918_104514.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,A34 B double attach.jpg,A34 B double attach/A34 B double attach.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103815.jpg,A34 B double attach/IMG_20260918_103815.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103820.jpg,A34 B double attach/IMG_20260918_103820.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103827.jpg,A34 B double attach/IMG_20260918_103827.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103844.jpg,A34 B double attach/IMG_20260918_103844.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103854.jpg,A34 B double attach/IMG_20260918_103854.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_103858.jpg,A34 B double attach/IMG_20260918_103858.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104015.jpg,A34 B double attach/IMG_20260918_104015.jpg
+5,train,A34,A34 B double attach,Room,NOT_CLEAN,IMG_20260918_104031.jpg,A34 B double attach/IMG_20260918_104031.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,B41  B Double attach.jpg,B41 B double attach/B41  B Double attach.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,B41 B double attach. .jpg,B41 B double attach/B41 B double attach. .jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111705.jpg,B41 B double attach/IMG_20260918_111705.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111711.jpg,B41 B double attach/IMG_20260918_111711.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111715.jpg,B41 B double attach/IMG_20260918_111715.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111718.jpg,B41 B double attach/IMG_20260918_111718.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111720.jpg,B41 B double attach/IMG_20260918_111720.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111728.jpg,B41 B double attach/IMG_20260918_111728.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111733.jpg,B41 B double attach/IMG_20260918_111733.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111738.jpg,B41 B double attach/IMG_20260918_111738.jpg
+5,train,B41,B41 B double attach,Room,CLEAN,IMG_20260918_111743.jpg,B41 B double attach/IMG_20260918_111743.jpg
+5,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_110949.jpg,B41 C double common/Kitchen/IMG_20260918_110949.jpg
+5,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111002.jpg,B41 C double common/Kitchen/IMG_20260918_111002.jpg
+5,train,B41,B41 C double common,Kitchen,NOT_CLEAN,IMG_20260918_111005.jpg,B41 C double common/Kitchen/IMG_20260918_111005.jpg
+5,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111008.jpg,B41 C double common/Kitchen/IMG_20260918_111008.jpg
+5,train,B41,B41 C double common,Kitchen,CLEAN,IMG_20260918_111013.jpg,B41 C double common/Kitchen/IMG_20260918_111013.jpg
+5,train,B41,B41 C double common,Room,NOT_CLEAN,B 41 C  double common.jpg,B41 C double common/B 41 C  double common.jpg
+5,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111123.jpg,B41 C double common/IMG_20260918_111123.jpg
+5,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111127.jpg,B41 C double common/IMG_20260918_111127.jpg
+5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111131.jpg,B41 C double common/IMG_20260918_111131.jpg
+5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111134.jpg,B41 C double common/IMG_20260918_111134.jpg
+5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111147.jpg,B41 C double common/IMG_20260918_111147.jpg
+5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111209.jpg,B41 C double common/IMG_20260918_111209.jpg
+5,train,B41,B41 C double common,Room,CLEAN,IMG_20260918_111216.jpg,B41 C double common/IMG_20260918_111216.jpg
+5,train,B41,B41 C double common,Room,NOT_CLEAN,IMG_20260918_111220.jpg,B41 C double common/IMG_20260918_111220.jpg
+5,train,B41,B41 D single attach,Room,CLEAN,B41 D single attach.jpg,B41 D single attach/B41 D single attach.jpg
+5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111416.jpg,B41 D single attach/IMG_20260918_111416.jpg
+5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111425.jpg,B41 D single attach/IMG_20260918_111425.jpg
+5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111442.jpg,B41 D single attach/IMG_20260918_111442.jpg
+5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111500.jpg,B41 D single attach/IMG_20260918_111500.jpg
+5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111507.jpg,B41 D single attach/IMG_20260918_111507.jpg
+5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111517.jpg,B41 D single attach/IMG_20260918_111517.jpg
+5,train,B41,B41 D single attach,Room,CLEAN,IMG_20260918_111527.jpg,B41 D single attach/IMG_20260918_111527.jpg
+5,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113220.jpg,C21 A single common/IMG_20260918_113220.jpg
+5,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113224.jpg,C21 A single common/IMG_20260918_113224.jpg
+5,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113231.jpg,C21 A single common/IMG_20260918_113231.jpg
+5,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113239.jpg,C21 A single common/IMG_20260918_113239.jpg
+5,train,C21,C21 A single common,Room,CLEAN,IMG_20260918_113243.jpg,C21 A single common/IMG_20260918_113243.jpg
+5,train,C21,C21 A single common,Room,NOT_CLEAN,IMG_20260918_113250.jpg,C21 A single common/IMG_20260918_113250.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,C21 B double attach.jpg,C21 B double attach/C21 B double attach.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113357.jpg,C21 B double attach/IMG_20260918_113357.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113400.jpg,C21 B double attach/IMG_20260918_113400.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113408.jpg,C21 B double attach/IMG_20260918_113408.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113413.jpg,C21 B double attach/IMG_20260918_113413.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113416.jpg,C21 B double attach/IMG_20260918_113416.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113422.jpg,C21 B double attach/IMG_20260918_113422.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113430.jpg,C21 B double attach/IMG_20260918_113430.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113433.jpg,C21 B double attach/IMG_20260918_113433.jpg
+5,train,C21,C21 B double attach,Room,CLEAN,IMG_20260918_113438.jpg,C21 B double attach/IMG_20260918_113438.jpg
+5,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112605.jpg,C21 C double common/Kitchen/IMG_20260918_112605.jpg
+5,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112611.jpg,C21 C double common/Kitchen/IMG_20260918_112611.jpg
+5,train,C21,C21 C double common,Kitchen,NOT_CLEAN,IMG_20260918_112616.jpg,C21 C double common/Kitchen/IMG_20260918_112616.jpg
+5,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112620.jpg,C21 C double common/Kitchen/IMG_20260918_112620.jpg
+5,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112629.jpg,C21 C double common/Kitchen/IMG_20260918_112629.jpg
+5,train,C21,C21 C double common,Kitchen,CLEAN,IMG_20260918_112638.jpg,C21 C double common/Kitchen/IMG_20260918_112638.jpg
+5,train,C21,C21 C double common,Room,CLEAN,C21 C double Common.jpg,C21 C double common/C21 C double Common.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112714.jpg,C21 C double common/IMG_20260918_112714.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112717.jpg,C21 C double common/IMG_20260918_112717.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112720.jpg,C21 C double common/IMG_20260918_112720.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112725.jpg,C21 C double common/IMG_20260918_112725.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112727.jpg,C21 C double common/IMG_20260918_112727.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112741.jpg,C21 C double common/IMG_20260918_112741.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112745.jpg,C21 C double common/IMG_20260918_112745.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112750.jpg,C21 C double common/IMG_20260918_112750.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112755.jpg,C21 C double common/IMG_20260918_112755.jpg
+5,train,C21,C21 C double common,Room,CLEAN,IMG_20260918_112759.jpg,C21 C double common/IMG_20260918_112759.jpg
+5,train,C21,C21 D single attach,Room,CLEAN,C21 D single attach.jpg,C21 D single attach/C21 D single attach.jpg
+5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112920.jpg,C21 D single attach/IMG_20260918_112920.jpg
+5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112926.jpg,C21 D single attach/IMG_20260918_112926.jpg
+5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112934.jpg,C21 D single attach/IMG_20260918_112934.jpg
+5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112938.jpg,C21 D single attach/IMG_20260918_112938.jpg
+5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112950.jpg,C21 D single attach/IMG_20260918_112950.jpg
+5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_112954.jpg,C21 D single attach/IMG_20260918_112954.jpg
+5,train,C21,C21 D single attach,Room,CLEAN,IMG_20260918_113000.jpg,C21 D single attach/IMG_20260918_113000.jpg
+5,test,C31,C31 B double attach,Room,NOT_CLEAN,C31 b double attach.jpg,C31 B double attach/C31 b double attach.jpg
+5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114321.jpg,C31 B double attach/IMG_20260918_114321.jpg
+5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114326.jpg,C31 B double attach/IMG_20260918_114326.jpg
+5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114331.jpg,C31 B double attach/IMG_20260918_114331.jpg
+5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114344.jpg,C31 B double attach/IMG_20260918_114344.jpg
+5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114348.jpg,C31 B double attach/IMG_20260918_114348.jpg
+5,test,C31,C31 B double attach,Room,NOT_CLEAN,IMG_20260918_114351.jpg,C31 B double attach/IMG_20260918_114351.jpg
+5,test,C31,C31 B double attach,Room,CLEAN,IMG_20260918_114356.jpg,C31 B double attach/IMG_20260918_114356.jpg
+5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113835.jpg,C31 C double Common/IMG_20260918_113835.jpg
+5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113838.jpg,C31 C double Common/IMG_20260918_113838.jpg
+5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113846.jpg,C31 C double Common/IMG_20260918_113846.jpg
+5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113854.jpg,C31 C double Common/IMG_20260918_113854.jpg
+5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113857.jpg,C31 C double Common/IMG_20260918_113857.jpg
+5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113901.jpg,C31 C double Common/IMG_20260918_113901.jpg
+5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113909.jpg,C31 C double Common/IMG_20260918_113909.jpg
+5,test,C31,C31 C double Common,Room,CLEAN,IMG_20260918_113912.jpg,C31 C double Common/IMG_20260918_113912.jpg
+5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114047.jpg,C31 D single attach/IMG_20260918_114047.jpg
+5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114050.jpg,C31 D single attach/IMG_20260918_114050.jpg
+5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114054.jpg,C31 D single attach/IMG_20260918_114054.jpg
+5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114058.jpg,C31 D single attach/IMG_20260918_114058.jpg
+5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114111.jpg,C31 D single attach/IMG_20260918_114111.jpg
+5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114115.jpg,C31 D single attach/IMG_20260918_114115.jpg
+5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114120.jpg,C31 D single attach/IMG_20260918_114120.jpg
+5,test,C31,C31 D single attach,Room,CLEAN,IMG_20260918_114127.jpg,C31 D single attach/IMG_20260918_114127.jpg

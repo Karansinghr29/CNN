@@ -1,137 +1,137 @@
 ﻿image_path,room_id,property_group,sub_area,final_label,raw_w,raw_h,corrected_w,corrected_h,exif_orientation,orientation_after,aspect_ratio_corrected
-D:\data science\CNN\A33 A single attach\A33 A Single attach. .jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 A single attach\IMG_20260918_104751.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 A single attach\IMG_20260918_104756.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 A single attach\IMG_20260918_104801.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 A single attach\IMG_20260918_104805.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 A single attach\IMG_20260918_104828.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\A33 C double Common.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105110.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105117.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105124.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105135.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105143.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105157.jpg,A33 C double common,A33,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105203.jpg,A33 C double common,A33,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105215.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105219.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105224.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105241.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A33 C double common\IMG_20260918_105245.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\A34 A Single attach.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104319.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104324.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104330.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104334.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104337.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104358.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104414.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104444.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 A single attach\IMG_20260918_104514.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\A34 B double attach.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\IMG_20260918_103815.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\IMG_20260918_103820.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\IMG_20260918_103827.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\IMG_20260918_103844.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\IMG_20260918_103854.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\IMG_20260918_103858.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\IMG_20260918_104015.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\A34 B double attach\IMG_20260918_104031.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\B41  B Double attach.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\B41 B double attach. .jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111705.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111711.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111715.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111718.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111720.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111728.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111733.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111738.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 B double attach\IMG_20260918_111743.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_110949.jpg,B41 C double common,B41,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111002.jpg,B41 C double common,B41,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111005.jpg,B41 C double common,B41,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111008.jpg,B41 C double common,B41,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\Kitchen\IMG_20260918_111013.jpg,B41 C double common,B41,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\B 41 C  double common.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\IMG_20260918_111123.jpg,B41 C double common,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\IMG_20260918_111127.jpg,B41 C double common,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\IMG_20260918_111131.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\IMG_20260918_111134.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\IMG_20260918_111147.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\IMG_20260918_111209.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\IMG_20260918_111216.jpg,B41 C double common,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 C double common\IMG_20260918_111220.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 D single attach\B41 D single attach.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 D single attach\IMG_20260918_111416.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 D single attach\IMG_20260918_111425.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 D single attach\IMG_20260918_111442.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 D single attach\IMG_20260918_111500.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 D single attach\IMG_20260918_111507.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 D single attach\IMG_20260918_111517.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\B41 D single attach\IMG_20260918_111527.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 A single common\IMG_20260918_113220.jpg,C21 A single common,C21,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 A single common\IMG_20260918_113224.jpg,C21 A single common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 A single common\IMG_20260918_113231.jpg,C21 A single common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 A single common\IMG_20260918_113239.jpg,C21 A single common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 A single common\IMG_20260918_113243.jpg,C21 A single common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 A single common\IMG_20260918_113250.jpg,C21 A single common,C21,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\C21 B double attach.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113357.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113400.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113408.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113413.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113416.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113422.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113430.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113433.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 B double attach\IMG_20260918_113438.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112605.jpg,C21 C double common,C21,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112611.jpg,C21 C double common,C21,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112616.jpg,C21 C double common,C21,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112620.jpg,C21 C double common,C21,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112629.jpg,C21 C double common,C21,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\Kitchen\IMG_20260918_112638.jpg,C21 C double common,C21,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\C21 C double Common.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112714.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112717.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112720.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112725.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112727.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112741.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112745.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112750.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112755.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 C double common\IMG_20260918_112759.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 D single attach\C21 D single attach.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 D single attach\IMG_20260918_112920.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 D single attach\IMG_20260918_112926.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 D single attach\IMG_20260918_112934.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 D single attach\IMG_20260918_112938.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 D single attach\IMG_20260918_112950.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 D single attach\IMG_20260918_112954.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C21 D single attach\IMG_20260918_113000.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 B double attach\C31 b double attach.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 B double attach\IMG_20260918_114321.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 B double attach\IMG_20260918_114326.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 B double attach\IMG_20260918_114331.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 B double attach\IMG_20260918_114344.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 B double attach\IMG_20260918_114348.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 B double attach\IMG_20260918_114351.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 B double attach\IMG_20260918_114356.jpg,C31 B double attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 C double Common\IMG_20260918_113835.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 C double Common\IMG_20260918_113838.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 C double Common\IMG_20260918_113846.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 C double Common\IMG_20260918_113854.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 C double Common\IMG_20260918_113857.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 C double Common\IMG_20260918_113901.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 C double Common\IMG_20260918_113909.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 C double Common\IMG_20260918_113912.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 D single attach\IMG_20260918_114047.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 D single attach\IMG_20260918_114050.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 D single attach\IMG_20260918_114054.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 D single attach\IMG_20260918_114058.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 D single attach\IMG_20260918_114111.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 D single attach\IMG_20260918_114115.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 D single attach\IMG_20260918_114120.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
-D:\data science\CNN\C31 D single attach\IMG_20260918_114127.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 A single attach/A33 A Single attach. .jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 A single attach/IMG_20260918_104751.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 A single attach/IMG_20260918_104756.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 A single attach/IMG_20260918_104801.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 A single attach/IMG_20260918_104805.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 A single attach/IMG_20260918_104828.jpg,A33 A single attach,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/A33 C double Common.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105110.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105117.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105124.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105135.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105143.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105157.jpg,A33 C double common,A33,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105203.jpg,A33 C double common,A33,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105215.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105219.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105224.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105241.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A33 C double common/IMG_20260918_105245.jpg,A33 C double common,A33,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/A34 A Single attach.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104319.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104324.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104330.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104334.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104337.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104358.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104414.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104444.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 A single attach/IMG_20260918_104514.jpg,A34 A single attach,A34,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/A34 B double attach.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/IMG_20260918_103815.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/IMG_20260918_103820.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/IMG_20260918_103827.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/IMG_20260918_103844.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/IMG_20260918_103854.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/IMG_20260918_103858.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/IMG_20260918_104015.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+A34 B double attach/IMG_20260918_104031.jpg,A34 B double attach,A34,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/B41  B Double attach.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/B41 B double attach. .jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111705.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111711.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111715.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111718.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111720.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111728.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111733.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111738.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 B double attach/IMG_20260918_111743.jpg,B41 B double attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/Kitchen/IMG_20260918_110949.jpg,B41 C double common,B41,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/Kitchen/IMG_20260918_111002.jpg,B41 C double common,B41,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/Kitchen/IMG_20260918_111005.jpg,B41 C double common,B41,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/Kitchen/IMG_20260918_111008.jpg,B41 C double common,B41,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/Kitchen/IMG_20260918_111013.jpg,B41 C double common,B41,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/B 41 C  double common.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/IMG_20260918_111123.jpg,B41 C double common,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/IMG_20260918_111127.jpg,B41 C double common,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/IMG_20260918_111131.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/IMG_20260918_111134.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/IMG_20260918_111147.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/IMG_20260918_111209.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/IMG_20260918_111216.jpg,B41 C double common,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 C double common/IMG_20260918_111220.jpg,B41 C double common,B41,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 D single attach/B41 D single attach.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 D single attach/IMG_20260918_111416.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 D single attach/IMG_20260918_111425.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 D single attach/IMG_20260918_111442.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 D single attach/IMG_20260918_111500.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 D single attach/IMG_20260918_111507.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 D single attach/IMG_20260918_111517.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+B41 D single attach/IMG_20260918_111527.jpg,B41 D single attach,B41,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 A single common/IMG_20260918_113220.jpg,C21 A single common,C21,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 A single common/IMG_20260918_113224.jpg,C21 A single common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 A single common/IMG_20260918_113231.jpg,C21 A single common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 A single common/IMG_20260918_113239.jpg,C21 A single common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 A single common/IMG_20260918_113243.jpg,C21 A single common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 A single common/IMG_20260918_113250.jpg,C21 A single common,C21,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/C21 B double attach.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113357.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113400.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113408.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113413.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113416.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113422.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113430.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113433.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 B double attach/IMG_20260918_113438.jpg,C21 B double attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/Kitchen/IMG_20260918_112605.jpg,C21 C double common,C21,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/Kitchen/IMG_20260918_112611.jpg,C21 C double common,C21,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/Kitchen/IMG_20260918_112616.jpg,C21 C double common,C21,Kitchen,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/Kitchen/IMG_20260918_112620.jpg,C21 C double common,C21,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/Kitchen/IMG_20260918_112629.jpg,C21 C double common,C21,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/Kitchen/IMG_20260918_112638.jpg,C21 C double common,C21,Kitchen,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/C21 C double Common.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112714.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112717.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112720.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112725.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112727.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112741.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112745.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112750.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112755.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 C double common/IMG_20260918_112759.jpg,C21 C double common,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 D single attach/C21 D single attach.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 D single attach/IMG_20260918_112920.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 D single attach/IMG_20260918_112926.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 D single attach/IMG_20260918_112934.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 D single attach/IMG_20260918_112938.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 D single attach/IMG_20260918_112950.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 D single attach/IMG_20260918_112954.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C21 D single attach/IMG_20260918_113000.jpg,C21 D single attach,C21,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 B double attach/C31 b double attach.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 B double attach/IMG_20260918_114321.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 B double attach/IMG_20260918_114326.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 B double attach/IMG_20260918_114331.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 B double attach/IMG_20260918_114344.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 B double attach/IMG_20260918_114348.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 B double attach/IMG_20260918_114351.jpg,C31 B double attach,C31,Room,NOT_CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 B double attach/IMG_20260918_114356.jpg,C31 B double attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 C double Common/IMG_20260918_113835.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 C double Common/IMG_20260918_113838.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 C double Common/IMG_20260918_113846.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 C double Common/IMG_20260918_113854.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 C double Common/IMG_20260918_113857.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 C double Common/IMG_20260918_113901.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 C double Common/IMG_20260918_113909.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 C double Common/IMG_20260918_113912.jpg,C31 C double Common,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 D single attach/IMG_20260918_114047.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 D single attach/IMG_20260918_114050.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 D single attach/IMG_20260918_114054.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 D single attach/IMG_20260918_114058.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 D single attach/IMG_20260918_114111.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 D single attach/IMG_20260918_114115.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 D single attach/IMG_20260918_114120.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625
+C31 D single attach/IMG_20260918_114127.jpg,C31 D single attach,C31,Room,CLEAN,4000,2250,2250,4000,6,portrait,0.5625

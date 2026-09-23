@@ -9,7 +9,9 @@ import collections
 import csv
 import os
 
-PRED = r"D:\data science\CNN\artifacts\experiments\spatial_lopo_predictions.csv"
+from dataset_prep import PROJECT_ROOT
+
+PRED = os.path.join(PROJECT_ROOT, "artifacts", "experiments", "spatial_lopo_predictions.csv")
 DIFFICULT = {
     "A34 B double attach": "scattered belongings",
     "B41 C double common": "floor debris + kitchen dirt",

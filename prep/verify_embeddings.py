@@ -8,9 +8,9 @@ import os
 
 import numpy as np
 
-from dataset_prep import load_manifest, excluded_rows
+from dataset_prep import PROJECT_ROOT, load_manifest, excluded_rows
 
-ART = r"D:\data science\CNN\artifacts\embeddings"
+ART = os.path.join(PROJECT_ROOT, "artifacts", "embeddings")
 ok = True
 
 

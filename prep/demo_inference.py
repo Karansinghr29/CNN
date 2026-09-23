@@ -19,12 +19,12 @@ import numpy as np
 import torch
 from PIL import Image, ImageOps
 
-from dataset_prep import CONFIGS, _resize
+from dataset_prep import CONFIGS, PROJECT_ROOT, _resize
 from extract_embeddings import build_backbone, to_tensor
 from extract_spatial_embeddings import VIEWS, crop_view
 from run_spatial_experiment import build_representations
 
-PROJECT = r"D:\data science\CNN"
+PROJECT = PROJECT_ROOT
 MODEL_DIR = os.path.join(PROJECT, "artifacts", "model")
 MODEL_PATH = os.path.join(MODEL_DIR, "demo_cleanliness_model.joblib")
 META_PATH = os.path.join(MODEL_DIR, "demo_cleanliness_model_meta.json")
@@ -87,9 +87,8 @@ def predict(pil_image: Image.Image, model, bundle, threshold: float | None = Non
 
 if __name__ == "__main__":
     # smoke test on one existing dataset image (read-only)
-    import csv
-    rows = list(csv.DictReader(open(os.path.join(PROJECT, "cleanliness_manifest.csv"),
-                                    encoding="utf-8-sig")))
+    from dataset_prep import load_manifest
+    rows = load_manifest(supervised_only=False)   # resolves manifest paths to absolute
     bundle, meta = load_artifacts()
     backbone = load_backbone()
     for want in ("NOT_CLEAN", "CLEAN"):

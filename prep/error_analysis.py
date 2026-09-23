@@ -10,7 +10,9 @@ import collections
 import csv
 import os
 
-PRED = r"D:\data science\CNN\artifacts\experiments\lopo_predictions_error_analysis.csv"
+from dataset_prep import PROJECT_ROOT
+
+PRED = os.path.join(PROJECT_ROOT, "artifacts", "experiments", "lopo_predictions_error_analysis.csv")
 
 
 def subtype(row: dict) -> str:

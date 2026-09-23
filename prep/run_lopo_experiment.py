@@ -26,10 +26,12 @@ from sklearn.metrics import (accuracy_score, balanced_accuracy_score,
                              recall_score)
 from sklearn.preprocessing import StandardScaler
 
-ART = r"D:\data science\CNN\artifacts"
+from dataset_prep import PROJECT_ROOT, resolve_image_path, to_repo_relative
+
+ART = os.path.join(PROJECT_ROOT, "artifacts")
 EMB_DIR = os.path.join(ART, "embeddings")
 OUT_DIR = os.path.join(ART, "experiments")
-MANIFEST = r"D:\data science\CNN\cleanliness_manifest.csv"
+MANIFEST = os.path.join(PROJECT_ROOT, "cleanliness_manifest.csv")
 
 POS = "NOT_CLEAN"          # positive class
 NEG = "CLEAN"
@@ -102,7 +104,10 @@ def metrics(y_true, y_pred) -> dict:
 
 def main() -> None:
     os.makedirs(OUT_DIR, exist_ok=True)
-    manifest = {r["image_path"]: r for r in csv.DictReader(open(MANIFEST, encoding="utf-8-sig"))}
+    # keyed by resolved absolute path so it matches the paths stored in the .npz,
+    # whether the manifest holds relative (published) or absolute (legacy) paths
+    manifest = {resolve_image_path(r["image_path"]): r
+                for r in csv.DictReader(open(MANIFEST, encoding="utf-8-sig"))}
 
     all_rows, fold_results, agg_results = [], [], []
 
@@ -137,7 +142,7 @@ def main() -> None:
             for idx in np.where(te)[0]:
                 mr = manifest[D["path"][idx]]
                 all_rows.append({
-                    "image_path": D["path"][idx], "image_file": D["file"][idx],
+                    "image_path": to_repo_relative(D["path"][idx]), "image_file": D["file"][idx],
                     "room_id": D["room"][idx], "property_group": D["prop"][idx],
                     "sub_area": D["sub"][idx],
                     "actual_label": D["label"][idx],

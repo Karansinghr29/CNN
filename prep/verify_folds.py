@@ -6,7 +6,7 @@ import collections
 import csv
 import os
 
-from dataset_prep import MANIFEST, load_manifest, excluded_rows
+from dataset_prep import MANIFEST, load_manifest, excluded_rows, resolve_image_path
 
 FOLDS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lopo_folds.csv")
 
@@ -23,6 +23,8 @@ def check(name: str, cond: bool, detail="") -> None:
 def main() -> None:
     with open(FOLDS, encoding="utf-8-sig", newline="") as f:
         rows = list(csv.DictReader(f))
+    for r in rows:      # fold file stores repo-relative paths; compare on absolute
+        r["image_path"] = resolve_image_path(r["image_path"])
     folds = sorted({int(r["fold"]) for r in rows})
     labeled = load_manifest()
     unc_paths = {r["image_path"] for r in excluded_rows()}
