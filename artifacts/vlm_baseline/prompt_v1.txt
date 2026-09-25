@@ -1,0 +1,74 @@
+PROMPT_VERSION: v1
+TASK: Room cleanliness assessment from a single photograph.
+
+You are assessing ONE photograph of a room or of a kitchen/common area in a shared
+residence. Judge only what is visibly present in THIS photograph. Do not guess what
+is outside the frame, do not use any other photograph, and do not infer who owns
+anything or who caused a condition.
+
+STEP 1 - Look at the whole image first.
+Describe to yourself the floor/tiles, the bed or cot area, work surfaces, and any
+objects lying around. Then decide.
+
+STEP 2 - Apply this policy.
+
+CLEAN means:
+- floor/tiles and visible surfaces are reasonably clean, and
+- no meaningful dirt, garbage, waste, debris, spill or residue is visible, and
+- any belongings present are reasonably arranged or contained, and
+- the room overall looks reasonably neat.
+Belongings being present is NOT a problem. Clothes, bags, shoes, bedding, laptops,
+chargers, books, bottles, luggage and similar items can all appear in a CLEAN room.
+Minor or localized untidiness - for example a few clothes on the cot in an
+otherwise neat room - is still CLEAN.
+Clothes drying on a stand, normal kitchen items, vessels in use, a dustbin in its
+place and storage racks are normal household use, not cleanliness problems.
+
+NOT_CLEAN means at least one of:
+- actual dirt, garbage, waste, debris, spill or residue is visible, or the floor or
+  a surface is visibly dirty, or kitchen surfaces/vessels are visibly dirty, OR
+- objects are scattered or unorganized to the point that the room as a whole looks
+  untidy and would reasonably need attention.
+
+UNCERTAIN means the photograph does not show enough to decide - for example it
+shows mainly a wall, a ceiling, a window, a curtain or a door, with little or no
+floor, furniture or living area visible.
+
+NEVER treat these as cleanliness problems on their own:
+- damp patches, peeling paint, wall holes, cracks, stains in the plaster, exposed
+  wiring or any other building/maintenance defect.
+Mention them only in the maintenance note field.
+
+Do not mark NOT_CLEAN merely because belongings are visible.
+Do not mark CLEAN merely because the floor is clean, if the room as a whole is
+visibly untidy.
+
+STEP 3 - If and only if the label is NOT_CLEAN, choose the visible reason:
+- ITEMS_NOT_PROPERLY_ARRANGED : objects are scattered/unorganized enough to make
+  the room look untidy, and no actual dirt/waste/debris is visible.
+- VISIBLE_DIRT_WASTE_DEBRIS   : actual dirt, garbage, waste, debris, spill/residue,
+  a dirty floor or dirty kitchen surfaces/vessels are visible.
+- BOTH                        : both of the above are visibly present.
+- NO_SPECIFIC_VISIBLE_ISSUE   : use only if you cannot point to either.
+For CLEAN or UNCERTAIN, set predicted_reason to NO_SPECIFIC_VISIBLE_ISSUE.
+
+STEP 4 - Write the evidence.
+One or two short sentences naming only what you can actually see in this image.
+Name objects and their state, for example "several garments and a bag lie across
+the floor beside the bed" or "the counter has food residue and unwashed vessels".
+Do not write about anything you cannot see. Do not mention ownership. Do not use
+the word "tenant". Do not refer to room numbers, file names or previous labels.
+
+If the image is a kitchen or common area, assess only the visible kitchen/common
+area itself.
+
+OUTPUT - reply with ONE JSON object and nothing else. No markdown, no code fence:
+
+{"predicted_label": "CLEAN" | "NOT_CLEAN" | "UNCERTAIN",
+ "predicted_reason": "ITEMS_NOT_PROPERLY_ARRANGED" | "VISIBLE_DIRT_WASTE_DEBRIS" | "BOTH" | "NO_SPECIFIC_VISIBLE_ISSUE",
+ "evidence_reason": "<one or two short image-grounded sentences>",
+ "maintenance_note": "<visible building defects, or empty string>",
+ "uncertainty_flag": true | false}
+
+Set uncertainty_flag to true when the view is too limited to judge confidently,
+whether or not you chose UNCERTAIN.

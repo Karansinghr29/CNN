@@ -1,0 +1,310 @@
+{
+  "title": "Final test on 27 untouched A11/A12 images",
+  "created_utc": "2026-09-24T11:53:33+00:00",
+  "split_marker": "FINAL_TEST - do not reuse for training without explicit approval",
+  "isolation": {
+    "training_images": 136,
+    "training_properties": [
+      "A33",
+      "A34",
+      "B41",
+      "C21",
+      "C31"
+    ],
+    "test_images": 27,
+    "test_properties": [
+      "A11",
+      "A12"
+    ],
+    "test_used_in_training": false,
+    "test_used_in_threshold_selection": false,
+    "test_used_in_candidate_selection_this_run": false,
+    "caveat": "candidate C's view set and F2 rule were originally chosen in an earlier comparison whose metrics included these 27 images; the selection-integrity re-check in this run repeats that choice using the 136 alone"
+  },
+  "candidate_c_config": {
+    "backbone": "frozen resnet50 IMAGENET1K_V2, 384 letterbox, EXIF corrected",
+    "views": [
+      "whole",
+      "lower",
+      "q3",
+      "q4"
+    ],
+    "dim": 8192,
+    "scaler": "StandardScaler",
+    "classifier": "LogisticRegression(C=1.0, class_weight=balanced, lbfgs, max_iter=5000)",
+    "threshold": 0.03,
+    "threshold_rule": "F2, inner 5-property folds of the 136"
+  },
+  "selection_integrity_on_136_only": {
+    "C_lower_f2": {
+      "n": 136,
+      "accuracy": 0.7794117647058824,
+      "balanced_accuracy": 0.7662058371735792,
+      "clean_precision": 0.9121,
+      "clean_recall": 0.7905,
+      "notclean_precision": 0.5111,
+      "notclean_recall": 0.7419,
+      "notclean_f1": 0.6053,
+      "macro_f1": 0.7261,
+      "confusion_matrix": {
+        "TN": 83,
+        "FP": 22,
+        "FN": 8,
+        "TP": 23
+      },
+      "belongings_detected": 13
+    },
+    "A_tile2x2_f2": {
+      "n": 136,
+      "accuracy": 0.7647058823529411,
+      "balanced_accuracy": 0.7453149001536099,
+      "clean_precision": 0.9011,
+      "clean_recall": 0.781,
+      "notclean_precision": 0.4889,
+      "notclean_recall": 0.7097,
+      "notclean_f1": 0.5789,
+      "macro_f1": 0.7078,
+      "confusion_matrix": {
+        "TN": 82,
+        "FP": 23,
+        "FN": 9,
+        "TP": 22
+      },
+      "belongings_detected": 12
+    },
+    "B_allviews_f2": {
+      "n": 136,
+      "accuracy": 0.7647058823529411,
+      "balanced_accuracy": 0.7566820276497697,
+      "clean_precision": 0.9101,
+      "clean_recall": 0.7714,
+      "notclean_precision": 0.4894,
+      "notclean_recall": 0.7419,
+      "notclean_f1": 0.5897,
+      "macro_f1": 0.7124,
+      "confusion_matrix": {
+        "TN": 81,
+        "FP": 24,
+        "FN": 8,
+        "TP": 23
+      },
+      "belongings_detected": 12
+    },
+    "A0_tile2x2_f1": {
+      "n": 136,
+      "accuracy": 0.7794117647058824,
+      "balanced_accuracy": 0.7548387096774194,
+      "clean_precision": 0.9032,
+      "clean_recall": 0.8,
+      "notclean_precision": 0.5116,
+      "notclean_recall": 0.7097,
+      "notclean_f1": 0.5946,
+      "macro_f1": 0.7215,
+      "confusion_matrix": {
+        "TN": 84,
+        "FP": 21,
+        "FN": 9,
+        "TP": 22
+      },
+      "belongings_detected": 12
+    }
+  },
+  "selected_on_136_alone": "C_lower_f2",
+  "final_test": {
+    "candidate_c": {
+      "n": 27,
+      "accuracy": 0.7037037037037037,
+      "balanced_accuracy": 0.611111111111111,
+      "clean_precision": 0.7273,
+      "clean_recall": 0.8889,
+      "notclean_precision": 0.6,
+      "notclean_recall": 0.3333,
+      "notclean_f1": 0.4286,
+      "macro_f1": 0.6143,
+      "confusion_matrix": {
+        "TN": 16,
+        "FP": 2,
+        "FN": 6,
+        "TP": 3
+      }
+    },
+    "v1_demo": {
+      "n": 27,
+      "accuracy": 0.7037037037037037,
+      "balanced_accuracy": 0.5833333333333333,
+      "clean_precision": 0.7083,
+      "clean_recall": 0.9444,
+      "notclean_precision": 0.6667,
+      "notclean_recall": 0.2222,
+      "notclean_f1": 0.3333,
+      "macro_f1": 0.5714,
+      "confusion_matrix": {
+        "TN": 17,
+        "FP": 1,
+        "FN": 7,
+        "TP": 2
+      }
+    },
+    "belongings_positives": 8,
+    "belongings_detected_candidate_c": 2,
+    "belongings_detected_v1_demo": 1
+  },
+  "per_room": {
+    "A11 B Double Attached": {
+      "n": 6,
+      "human_clean": 6,
+      "human_not_clean": 0,
+      "candidateC": {
+        "n": 6,
+        "accuracy": 1.0,
+        "balanced_accuracy": 0.5,
+        "clean_precision": 1.0,
+        "clean_recall": 1.0,
+        "notclean_precision": 0.0,
+        "notclean_recall": 0.0,
+        "notclean_f1": 0.0,
+        "macro_f1": 0.5,
+        "confusion_matrix": {
+          "TN": 6,
+          "FP": 0,
+          "FN": 0,
+          "TP": 0
+        }
+      },
+      "v1demo": {
+        "n": 6,
+        "accuracy": 1.0,
+        "balanced_accuracy": 0.5,
+        "clean_precision": 1.0,
+        "clean_recall": 1.0,
+        "notclean_precision": 0.0,
+        "notclean_recall": 0.0,
+        "notclean_f1": 0.0,
+        "macro_f1": 0.5,
+        "confusion_matrix": {
+          "TN": 6,
+          "FP": 0,
+          "FN": 0,
+          "TP": 0
+        }
+      }
+    },
+    "A11 C Double common": {
+      "n": 7,
+      "human_clean": 2,
+      "human_not_clean": 5,
+      "candidateC": {
+        "n": 7,
+        "accuracy": 0.7142857142857143,
+        "balanced_accuracy": 0.8,
+        "clean_precision": 0.5,
+        "clean_recall": 1.0,
+        "notclean_precision": 1.0,
+        "notclean_recall": 0.6,
+        "notclean_f1": 0.75,
+        "macro_f1": 0.7083,
+        "confusion_matrix": {
+          "TN": 2,
+          "FP": 0,
+          "FN": 2,
+          "TP": 3
+        }
+      },
+      "v1demo": {
+        "n": 7,
+        "accuracy": 0.5714285714285714,
+        "balanced_accuracy": 0.7,
+        "clean_precision": 0.4,
+        "clean_recall": 1.0,
+        "notclean_precision": 1.0,
+        "notclean_recall": 0.4,
+        "notclean_f1": 0.5714,
+        "macro_f1": 0.5714,
+        "confusion_matrix": {
+          "TN": 2,
+          "FP": 0,
+          "FN": 3,
+          "TP": 2
+        }
+      }
+    },
+    "A12 B Double attached": {
+      "n": 8,
+      "human_clean": 4,
+      "human_not_clean": 4,
+      "candidateC": {
+        "n": 8,
+        "accuracy": 0.5,
+        "balanced_accuracy": 0.5,
+        "clean_precision": 0.5,
+        "clean_recall": 1.0,
+        "notclean_precision": 0.0,
+        "notclean_recall": 0.0,
+        "notclean_f1": 0.0,
+        "macro_f1": 0.3333,
+        "confusion_matrix": {
+          "TN": 4,
+          "FP": 0,
+          "FN": 4,
+          "TP": 0
+        }
+      },
+      "v1demo": {
+        "n": 8,
+        "accuracy": 0.5,
+        "balanced_accuracy": 0.5,
+        "clean_precision": 0.5,
+        "clean_recall": 1.0,
+        "notclean_precision": 0.0,
+        "notclean_recall": 0.0,
+        "notclean_f1": 0.0,
+        "macro_f1": 0.3333,
+        "confusion_matrix": {
+          "TN": 4,
+          "FP": 0,
+          "FN": 4,
+          "TP": 0
+        }
+      }
+    },
+    "A12 C Double common": {
+      "n": 6,
+      "human_clean": 6,
+      "human_not_clean": 0,
+      "candidateC": {
+        "n": 6,
+        "accuracy": 0.6666666666666666,
+        "balanced_accuracy": 0.3333333333333333,
+        "clean_precision": 1.0,
+        "clean_recall": 0.6667,
+        "notclean_precision": 0.0,
+        "notclean_recall": 0.0,
+        "notclean_f1": 0.0,
+        "macro_f1": 0.4,
+        "confusion_matrix": {
+          "TN": 4,
+          "FP": 2,
+          "FN": 0,
+          "TP": 0
+        }
+      },
+      "v1demo": {
+        "n": 6,
+        "accuracy": 0.8333333333333334,
+        "balanced_accuracy": 0.4166666666666667,
+        "clean_precision": 1.0,
+        "clean_recall": 0.8333,
+        "notclean_precision": 0.0,
+        "notclean_recall": 0.0,
+        "notclean_f1": 0.0,
+        "macro_f1": 0.4545,
+        "confusion_matrix": {
+          "TN": 5,
+          "FP": 1,
+          "FN": 0,
+          "TP": 0
+        }
+      }
+    }
+  }
+}

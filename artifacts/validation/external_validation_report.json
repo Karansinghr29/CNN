@@ -1,0 +1,187 @@
+{
+  "title": "External validation on 4 new rooms",
+  "created_utc": "2026-09-24T08:25:31+00:00",
+  "status": "PROTOTYPE - not production validated",
+  "model": {
+    "artifact": "artifacts/model/demo_cleanliness_model.joblib",
+    "pipeline": "tile2x2_concat = concat[whole, q1, q2, q3, q4] -> 10240-d",
+    "backbone": "torchvision resnet50, weights=IMAGENET1K_V2, frozen (eval, no grad)",
+    "threshold_used": 0.07,
+    "threshold_source": "artifact default (median of the five LOPO fold thresholds); NOT tuned on this validation set",
+    "retrained_or_refitted": false
+  },
+  "data": {
+    "source": "4 room folders added after the original dataset was frozen",
+    "rooms": [
+      "A11 B Double Attached",
+      "A11 C Double common",
+      "A12 B Double attached",
+      "A12 C Double common"
+    ],
+    "properties": [
+      "A11",
+      "A12"
+    ],
+    "in_training_manifest": false,
+    "used_for_training": false
+  },
+  "overall": {
+    "images": 27,
+    "human_clean": 18,
+    "human_not_clean": 9,
+    "correct": 19,
+    "incorrect": 8,
+    "false_positives_clean_to_notclean": 1,
+    "false_negatives_notclean_to_clean": 7,
+    "accuracy": 0.7037,
+    "notclean_precision": 0.6667,
+    "notclean_recall": 0.2222,
+    "clean_recall": 0.9444,
+    "confusion_matrix": {
+      "TN": 17,
+      "FP": 1,
+      "FN": 7,
+      "TP": 2
+    }
+  },
+  "per_room": {
+    "A11 B Double Attached": {
+      "images": 6,
+      "human_clean": 6,
+      "human_not_clean": 0,
+      "correct": 6,
+      "incorrect": 0,
+      "false_positives_clean_to_notclean": 0,
+      "false_negatives_notclean_to_clean": 0,
+      "accuracy": 1.0,
+      "notclean_precision": null,
+      "notclean_recall": null,
+      "clean_recall": 1.0,
+      "confusion_matrix": {
+        "TN": 6,
+        "FP": 0,
+        "FN": 0,
+        "TP": 0
+      },
+      "property_group": "A11"
+    },
+    "A11 C Double common": {
+      "images": 7,
+      "human_clean": 2,
+      "human_not_clean": 5,
+      "correct": 4,
+      "incorrect": 3,
+      "false_positives_clean_to_notclean": 0,
+      "false_negatives_notclean_to_clean": 3,
+      "accuracy": 0.5714,
+      "notclean_precision": 1.0,
+      "notclean_recall": 0.4,
+      "clean_recall": 1.0,
+      "confusion_matrix": {
+        "TN": 2,
+        "FP": 0,
+        "FN": 3,
+        "TP": 2
+      },
+      "property_group": "A11"
+    },
+    "A12 B Double attached": {
+      "images": 8,
+      "human_clean": 4,
+      "human_not_clean": 4,
+      "correct": 4,
+      "incorrect": 4,
+      "false_positives_clean_to_notclean": 0,
+      "false_negatives_notclean_to_clean": 4,
+      "accuracy": 0.5,
+      "notclean_precision": null,
+      "notclean_recall": 0.0,
+      "clean_recall": 1.0,
+      "confusion_matrix": {
+        "TN": 4,
+        "FP": 0,
+        "FN": 4,
+        "TP": 0
+      },
+      "property_group": "A12"
+    },
+    "A12 C Double common": {
+      "images": 6,
+      "human_clean": 6,
+      "human_not_clean": 0,
+      "correct": 5,
+      "incorrect": 1,
+      "false_positives_clean_to_notclean": 1,
+      "false_negatives_notclean_to_clean": 0,
+      "accuracy": 0.8333,
+      "notclean_precision": 0.0,
+      "notclean_recall": null,
+      "clean_recall": 0.8333,
+      "confusion_matrix": {
+        "TN": 5,
+        "FP": 1,
+        "FN": 0,
+        "TP": 0
+      },
+      "property_group": "A12"
+    }
+  },
+  "false_negatives": [
+    {
+      "room_id": "A11 C Double common",
+      "image_file": "IMG-20260923-WA0053.jpg",
+      "human_reason": "Towels and cloth are dumped on the floor, cables trail across the tiles and boxes and slippers are left around the desk, so the room looks visibly untidy although the tiles are clean.",
+      "p_not_clean": 0.005178
+    },
+    {
+      "room_id": "A11 C Double common",
+      "image_file": "IMG-20260923-WA0057.jpg",
+      "human_reason": "A backpack and bags are left on the floor beside the wardrobe and clothing is draped over the wardrobe edge, so the belongings are not properly arranged even though the floor is clean.",
+      "p_not_clean": 0.0192
+    },
+    {
+      "room_id": "A11 C Double common",
+      "image_file": "IMG-20260923-WA0059.jpg",
+      "human_reason": "Towels are dumped on the floor, cables trail across the tiles and a bucket and boxes are pushed under a crowded desk, making the room visibly untidy.",
+      "p_not_clean": 0.000629
+    },
+    {
+      "room_id": "A12 B Double attached",
+      "image_file": "IMG-20260923-WA0078.jpg",
+      "human_reason": "Clothes lie loose across the bed and several bags and a backpack are dropped on the floor beside it, so the belongings are unorganized and the room looks untidy.",
+      "p_not_clean": 0.000342
+    },
+    {
+      "room_id": "A12 B Double attached",
+      "image_file": "IMG-20260923-WA0079.jpg",
+      "human_reason": "Wide view shows clothes scattered over the bed with bags and luggage left around the floor; the belongings are not properly arranged.",
+      "p_not_clean": 0.050409
+    },
+    {
+      "room_id": "A12 B Double attached",
+      "image_file": "IMG-20260923-WA0081.jpg",
+      "human_reason": "Clothes are strewn across the bed and a backpack, tote bags and a suitcase are dropped on the floor around it, making the room visibly untidy.",
+      "p_not_clean": 0.009187
+    },
+    {
+      "room_id": "A12 B Double attached",
+      "image_file": "IMG-20260923-WA0083.jpg",
+      "human_reason": "A crumpled quilt and several loose garments are strewn across the bed with a jacket thrown over the bed frame; the bedding and clothes are unorganized.",
+      "p_not_clean": 0.00048
+    }
+  ],
+  "false_positives": [
+    {
+      "room_id": "A12 C Double common",
+      "image_file": "IMG-20260923-WA0100.jpg",
+      "human_reason": "Desk holds personal items in order with a bag on the chair; the floor is clean and no waste or residue is visible.",
+      "p_not_clean": 0.165815
+    }
+  ],
+  "caveats": [
+    "4 rooms from 2 properties - far too small to establish production performance.",
+    "Human reference labels are single-annotator and should be owner-reviewed.",
+    "The threshold was not tuned on this set; doing so would invalidate it as held-out data.",
+    "These images were NOT added to the training manifest and the model was NOT refitted."
+  ]
+}

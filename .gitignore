@@ -33,3 +33,19 @@ desktop.ini
 /B41*/
 /C21*/
 /C31*/
+
+# --- External validation photos (A11/A12) ---------------------------------
+# Same privacy and size rationale as the 141 photos above: these 27 JPEGs are
+# photographs of occupied rooms. Their labels, paths and audit records live in
+# artifacts/combined/combined_manifest_v2.csv.
+/A11*/
+/A12*/
+
+# --- Rejected fine-tuning checkpoints -------------------------------------
+# 7 x 90 MB ResNet-50 checkpoints from the LOPO fine-tuning run that was
+# rejected for overfitting. Metrics are kept in artifacts/experiments_v2/.
+/artifacts/models_v2/
+
+# --- Review contact sheets ------------------------------------------------
+# Montages that reproduce the room photographs themselves.
+/artifacts/validation/review_sheets/

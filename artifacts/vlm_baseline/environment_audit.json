@@ -1,0 +1,79 @@
+{
+  "created_utc": "2026-09-25",
+  "purpose": "Which VLM options actually exist in this environment. No model was run.",
+  "hardware": {
+    "ram_total_gb": 7.9,
+    "ram_free_gb": 2.1,
+    "gpu": "Intel(R) HD Graphics 4400, 1 GB VRAM - not usable for LLM/VLM acceleration",
+    "cuda_available": false,
+    "torch_threads": 2,
+    "disk_free_gb": {
+      "C": 7.5,
+      "D": 84.4
+    }
+  },
+  "python_packages": {
+    "torch": "2.14.0+cpu",
+    "torchvision": "0.29.0+cpu",
+    "openai": "2.24.0",
+    "transformers": null,
+    "accelerate": null,
+    "sentencepiece": null,
+    "timm": null,
+    "onnxruntime": null,
+    "huggingface_hub": null,
+    "anthropic": null,
+    "google.generativeai": null,
+    "llama_cpp": null,
+    "bitsandbytes": null
+  },
+  "local_runtimes": {
+    "ollama": {
+      "installed": true,
+      "version": "0.34.4",
+      "path": "<LOCALAPPDATA>\\Programs\\Ollama\\ollama.exe",
+      "model_store": "<second-drive>\\OllamaModels (OLLAMA_MODELS set; 84.4 GB free)",
+      "models_pulled": [
+        {
+          "name": "qwen2.5:7b-instruct",
+          "size_gb": 4.7,
+          "vision_capable": false
+        }
+      ],
+      "vision_model_pulled": false,
+      "registry_reachable": true
+    },
+    "lm_studio": false,
+    "llamafile": false,
+    "llama.cpp cli": false
+  },
+  "api_options": {
+    "GROQ_API_KEY": {
+      "present": true,
+      "models_visible": 11,
+      "vision_capable_models": [],
+      "verdict": "UNUSABLE for this task - the key exposes only text and audio models (allam-2-7b, gpt-oss-20b/120b, qwen3.8-27b, whisper, prompt-guard). No image input model is available."
+    },
+    "ANTHROPIC_BASE_URL": {
+      "present": true,
+      "note": "Base URL only; no usable standalone API key was found in the environment and no call was attempted."
+    },
+    "OPENAI_API_KEY": {
+      "present": false
+    },
+    "GOOGLE/GEMINI": {
+      "present": false
+    }
+  },
+  "conclusion": {
+    "can_run_a_vlm_right_now": false,
+    "blocking_dependency": "No vision-capable model is available locally or through any key in this environment.",
+    "viable_path": "Pull one small vision model into the existing Ollama install (store is already on D:, which has 84 GB free). Requires an explicit go-ahead because it downloads model weights.",
+    "not_viable": [
+      "Groq API - no vision models on this key",
+      "GPU inference - Intel HD 4400, 1 GB VRAM, no CUDA",
+      "Models above ~3 GB - only about 2 GB of RAM is currently free of 7.9 GB total"
+    ]
+  },
+  "note_on_paths": "Local filesystem paths are redacted; only the location type is recorded."
+}

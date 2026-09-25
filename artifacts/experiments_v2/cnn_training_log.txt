@@ -1,0 +1,126 @@
+loading 163 images into memory (EXIF corrected)...
+  loaded in 25s
+properties: [np.str_('A11'), np.str_('A12'), np.str_('A33'), np.str_('A34'), np.str_('B41'), np.str_('C21'), np.str_('C31')]  positives=40/163
+
+fold 1/7  test=A11  inner_val=A12  train=136 val=14 test=13
+    class counts train: CLEAN=105 NOT_CLEAN=31 -> weights [0.6476190686225891, 2.1935484409332275]
+    phase1 ep01 loss=0.6960 inner_macroF1=0.533 thr=0.48
+    phase1 ep02 loss=0.6679 inner_macroF1=0.524 thr=0.41
+    phase1 ep03 loss=0.6899 inner_macroF1=0.576 thr=0.45
+    phase1 ep04 loss=0.5862 inner_macroF1=0.635 thr=0.50
+    phase1 ep05 loss=0.5488 inner_macroF1=0.635 thr=0.59
+    phase1 ep06 loss=0.5207 inner_macroF1=0.576 thr=0.50
+    phase2 ep01 loss=0.5122 inner_macroF1=0.788 thr=0.51
+    phase2 ep02 loss=0.3613 inner_macroF1=0.788 thr=0.48
+    phase2 ep03 loss=0.2355 inner_macroF1=0.635 thr=0.50
+    phase2 ep04 loss=0.1854 inner_macroF1=0.635 thr=0.49
+    phase2 ep05 loss=0.0870 inner_macroF1=0.635 thr=0.42
+    early stop (patience 4)
+  -> test acc=0.769 bal=0.700 NCrec=0.400 NCprec=1.000 thr=0.51 (6.1 min)
+
+fold 2/7  test=A12  inner_val=A33  train=130 val=19 test=14
+    class counts train: CLEAN=96 NOT_CLEAN=34 -> weights [0.6770833134651184, 1.9117647409439087]
+    phase1 ep01 loss=0.6964 inner_macroF1=0.472 thr=0.50
+    phase1 ep02 loss=0.6314 inner_macroF1=0.472 thr=0.50
+    phase1 ep03 loss=0.6227 inner_macroF1=0.472 thr=0.50
+    phase1 ep04 loss=0.5401 inner_macroF1=0.472 thr=0.50
+    phase1 ep05 loss=0.5536 inner_macroF1=0.472 thr=0.55
+    phase1 ep06 loss=0.5482 inner_macroF1=0.472 thr=0.50
+    phase2 ep01 loss=0.4755 inner_macroF1=0.472 thr=0.50
+    phase2 ep02 loss=0.3132 inner_macroF1=0.472 thr=0.50
+    phase2 ep03 loss=0.2034 inner_macroF1=0.472 thr=0.59
+    phase2 ep04 loss=0.1121 inner_macroF1=0.472 thr=0.82
+    early stop (patience 4)
+  -> test acc=0.714 bal=0.500 NCrec=0.000 NCprec=0.000 thr=0.50 (5.8 min)
+
+fold 3/7  test=A33  inner_val=A34  train=125 val=19 test=19
+    class counts train: CLEAN=96 NOT_CLEAN=29 -> weights [0.6510416865348816, 2.155172348022461]
+    phase1 ep01 loss=0.6773 inner_macroF1=0.472 thr=0.39
+    phase1 ep02 loss=0.6152 inner_macroF1=0.591 thr=0.31
+    phase1 ep03 loss=0.5643 inner_macroF1=0.635 thr=0.45
+    phase1 ep04 loss=0.5390 inner_macroF1=0.614 thr=0.39
+    phase1 ep05 loss=0.5183 inner_macroF1=0.661 thr=0.39
+    phase1 ep06 loss=0.4559 inner_macroF1=0.614 thr=0.35
+    phase2 ep01 loss=0.4925 inner_macroF1=0.627 thr=0.33
+    phase2 ep02 loss=0.3678 inner_macroF1=0.591 thr=0.33
+    phase2 ep03 loss=0.2899 inner_macroF1=0.627 thr=0.36
+    phase2 ep04 loss=0.1488 inner_macroF1=0.635 thr=0.42
+    early stop (patience 4)
+  -> test acc=0.895 bal=0.500 NCrec=0.000 NCprec=0.000 thr=0.39 (6.0 min)
+
+fold 4/7  test=A34  inner_val=B41  train=111 val=33 test=19
+    class counts train: CLEAN=89 NOT_CLEAN=22 -> weights [0.6235954761505127, 2.5227272510528564]
+    phase1 ep01 loss=0.7470 inner_macroF1=0.771 thr=0.51
+    phase1 ep02 loss=0.6990 inner_macroF1=0.618 thr=0.41
+    phase1 ep03 loss=0.6001 inner_macroF1=0.564 thr=0.41
+    phase1 ep04 loss=0.5487 inner_macroF1=0.612 thr=0.50
+    phase1 ep05 loss=0.5209 inner_macroF1=0.564 thr=0.41
+    phase1 ep06 loss=0.5252 inner_macroF1=0.547 thr=0.48
+    phase2 ep01 loss=0.4592 inner_macroF1=0.581 thr=0.19
+    phase2 ep02 loss=0.3133 inner_macroF1=0.591 thr=0.21
+    phase2 ep03 loss=0.2037 inner_macroF1=0.618 thr=0.36
+    phase2 ep04 loss=0.1487 inner_macroF1=0.569 thr=0.46
+    early stop (patience 4)
+  -> test acc=0.421 bal=0.406 NCrec=0.111 NCprec=0.250 thr=0.51 (5.2 min)
+
+fold 5/7  test=B41  inner_val=C21  train=89 val=41 test=33
+    class counts train: CLEAN=62 NOT_CLEAN=27 -> weights [0.7177419066429138, 1.6481481790542603]
+    phase1 ep01 loss=0.7947 inner_macroF1=0.474 thr=0.65
+    phase1 ep02 loss=0.6546 inner_macroF1=0.474 thr=0.57
+    phase1 ep03 loss=0.6147 inner_macroF1=0.486 thr=0.44
+    phase1 ep04 loss=0.5751 inner_macroF1=0.520 thr=0.48
+    phase1 ep05 loss=0.5873 inner_macroF1=0.537 thr=0.48
+    phase1 ep06 loss=0.5200 inner_macroF1=0.573 thr=0.53
+    phase2 ep01 loss=0.4949 inner_macroF1=0.612 thr=0.32
+    phase2 ep02 loss=0.3953 inner_macroF1=0.655 thr=0.46
+    phase2 ep03 loss=0.2702 inner_macroF1=0.633 thr=0.34
+    phase2 ep04 loss=0.1664 inner_macroF1=0.584 thr=0.41
+    phase2 ep05 loss=0.1004 inner_macroF1=0.655 thr=0.21
+    phase2 ep06 loss=0.1215 inner_macroF1=0.658 thr=0.23
+    phase2 ep07 loss=0.1209 inner_macroF1=0.680 thr=0.40
+    phase2 ep08 loss=0.0585 inner_macroF1=0.610 thr=0.50
+  -> test acc=0.667 bal=0.667 NCrec=0.667 NCprec=0.429 thr=0.40 (6.5 min)
+
+fold 6/7  test=C21  inner_val=C31  train=98 val=24 test=41
+    class counts train: CLEAN=69 NOT_CLEAN=29 -> weights [0.7101449370384216, 1.6896551847457886]
+    phase1 ep01 loss=0.7017 inner_macroF1=0.457 thr=0.33
+    phase1 ep02 loss=0.6390 inner_macroF1=0.499 thr=0.43
+    phase1 ep03 loss=0.5748 inner_macroF1=0.531 thr=0.47
+    phase1 ep04 loss=0.5533 inner_macroF1=0.497 thr=0.40
+    phase1 ep05 loss=0.5352 inner_macroF1=0.469 thr=0.57
+    phase1 ep06 loss=0.5008 inner_macroF1=0.541 thr=0.34
+    phase2 ep01 loss=0.4499 inner_macroF1=0.608 thr=0.38
+    phase2 ep02 loss=0.3502 inner_macroF1=0.619 thr=0.36
+    phase2 ep03 loss=0.1864 inner_macroF1=0.580 thr=0.33
+    phase2 ep04 loss=0.1827 inner_macroF1=0.534 thr=0.14
+    phase2 ep05 loss=0.1341 inner_macroF1=0.590 thr=0.27
+    phase2 ep06 loss=0.0687 inner_macroF1=0.644 thr=0.35
+    phase2 ep07 loss=0.0665 inner_macroF1=0.608 thr=0.26
+    phase2 ep08 loss=0.0391 inner_macroF1=0.531 thr=0.27
+  -> test acc=0.659 bal=0.588 NCrec=0.500 NCprec=0.143 thr=0.35 (7.7 min)
+
+fold 7/7  test=C31  inner_val=A11  train=126 val=13 test=24
+    class counts train: CLEAN=98 NOT_CLEAN=28 -> weights [0.6428571343421936, 2.25]
+    phase1 ep01 loss=0.7077 inner_macroF1=0.764 thr=0.46
+    phase1 ep02 loss=0.6581 inner_macroF1=0.690 thr=0.49
+    phase1 ep03 loss=0.5825 inner_macroF1=0.745 thr=0.48
+    phase1 ep04 loss=0.5733 inner_macroF1=0.764 thr=0.44
+    phase1 ep05 loss=0.5093 inner_macroF1=0.838 thr=0.37
+    phase1 ep06 loss=0.5089 inner_macroF1=0.838 thr=0.45
+    phase2 ep01 loss=0.4712 inner_macroF1=0.764 thr=0.25
+    phase2 ep02 loss=0.3110 inner_macroF1=0.838 thr=0.37
+    phase2 ep03 loss=0.2140 inner_macroF1=0.838 thr=0.39
+    phase2 ep04 loss=0.1398 inner_macroF1=0.838 thr=0.24
+    early stop (patience 4)
+  -> test acc=0.667 bal=0.597 NCrec=0.429 NCprec=0.429 thr=0.37 (5.8 min)
+
+AGGREGATE (7-property LOPO, 163 images, CNN fine-tuned)
+  accuracy               0.6748
+  balanced_accuracy      0.5652
+  clean_precision        0.7869
+  clean_recall           0.7805
+  notclean_precision     0.3415
+  notclean_recall        0.3500
+  notclean_f1            0.3457
+  macro_f1               0.5647
+  confusion TN=96 FP=27 FN=26 TP=14

@@ -1,0 +1,41 @@
+{
+  "backbone": "resnet50 IMAGENET1K_V2 (frozen)",
+  "config": {
+    "name": "384",
+    "size": 384,
+    "resize_mode": "letterbox",
+    "interpolation": "bicubic",
+    "pad_color": [
+      0,
+      0,
+      0
+    ],
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "views": [
+    "whole",
+    "upper",
+    "lower",
+    "q1",
+    "q2",
+    "q3",
+    "q4"
+  ],
+  "shape": [
+    163,
+    7,
+    2048
+  ],
+  "reused_from_v1": 136,
+  "newly_computed": 27,
+  "original_embeddings_modified": false
+}

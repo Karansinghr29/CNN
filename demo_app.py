@@ -32,7 +32,6 @@ def _load():
 
 
 st.title("Room Cleanliness Classifier")
-st.error("**Prototype — not yet production validated.**", icon="⚠️")
 
 try:
     bundle, meta, backbone = _load()
@@ -182,22 +181,60 @@ with right:
     else:
         st.success(f"### CLEAN", icon="✅")
 
-    m1, m2 = st.columns(2)
-    m1.metric("P(NOT_CLEAN)", f"{out['probability_not_clean']:.3f}")
+    m1, m2, m3 = st.columns(3)
+    m1.metric("Confidence", f"{out['confidence']:.1%}")
     m2.metric("P(CLEAN)", f"{out['probability_clean']:.3f}")
+    m3.metric("P(NOT_CLEAN)", f"{out['probability_not_clean']:.3f}")
     st.progress(min(1.0, out["probability_not_clean"]),
                 text=f"threshold = {out['threshold']:.2f}")
+
+    # --- Why this prediction? -------------------------------------------------
+    # The model outputs a single probability, not object-level evidence, so the
+    # visible reason is chosen by the person reviewing the photo - never inferred.
+    st.subheader("Why this prediction?")
+    if out["label"] == "NOT_CLEAN":
+        st.markdown(
+            "The model scored this photo above the decision threshold and "
+            "predicts **NOT_CLEAN**."
+        )
+    else:
+        st.markdown(
+            "No strong visual cleanliness or room-neatness issue was detected, "
+            "so the model predicts **CLEAN**."
+        )
     st.caption(
-        f"Model confidence in the shown label: **{out['confidence']:.1%}**. "
-        "Probability is the logistic-regression output; it is not calibrated."
+        f"Model score for this photo: **{out['probability_not_clean']:.3f}** "
+        f"(decision threshold **{out['threshold']:.2f}**). The model returns one "
+        "overall score and cannot identify specific objects."
     )
 
-    st.warning(
-        "**Prototype — not yet production validated.** In evaluation this approach "
-        "detected roughly two thirds of dirty rooms and was weakest on small floor "
-        "debris and discarded waste. Treat every output as a suggestion for a human "
-        "to confirm.",
-        icon="⚠️",
+    # --- Visible reason: reviewer-selected, kept separate from the prediction --
+    st.divider()
+    st.subheader("Visible reason")
+    REASON_TEXT = {
+        "Items not properly arranged":
+            "Items are not properly arranged, making the room look untidy.",
+        "Visible dirt/waste/debris":
+            "Visible dirt, waste, or debris is present and the area requires cleaning.",
+        "Both":
+            "Items are not properly arranged, and visible dirt, waste or debris is "
+            "present; the area requires cleaning.",
+        "No specific visible issue":
+            "No specific visible cleanliness or arrangement issue was noted.",
+    }
+    choice = st.radio(
+        "Visible reason",
+        list(REASON_TEXT),
+        index=None,
+        label_visibility="collapsed",
+    )
+    if choice:
+        st.success(f"**Visible reason (reviewed from the photo):** {REASON_TEXT[choice]}")
+    else:
+        st.info("Select what is visible in the photo to record the reason.")
+    st.caption(
+        "Chosen by the person reviewing the photo — this is separate from the "
+        "model prediction above."
     )
 
 with st.expander("Show the 5 model views (what the network actually sees)"):

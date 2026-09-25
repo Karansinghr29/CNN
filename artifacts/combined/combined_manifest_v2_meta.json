@@ -1,0 +1,149 @@
+{
+  "artifact": "combined_manifest_v2.csv",
+  "created_utc": "2026-09-24T10:45:52+00:00",
+  "total_labeled_images": 163,
+  "counts": {
+    "CLEAN": 127,
+    "NOT_CLEAN": 36
+  },
+  "composition": {
+    "v1_original": {
+      "images": 136,
+      "CLEAN": 105,
+      "NOT_CLEAN": 31,
+      "note": "UNCERTAIN images (5) remain excluded and are NOT in this file"
+    },
+    "v2_new_a11_a12": {
+      "images": 27,
+      "CLEAN": 22,
+      "NOT_CLEAN": 5,
+      "note": "A12 B relabelled to CLEAN by owner rule on 2026-09-24"
+    }
+  },
+  "property_groups": {
+    "A11": {
+      "images": 13,
+      "CLEAN": 8,
+      "NOT_CLEAN": 5,
+      "rooms": [
+        "A11 B Double Attached",
+        "A11 C Double common"
+      ],
+      "dataset_version": [
+        "v2_new_a11_a12"
+      ]
+    },
+    "A12": {
+      "images": 14,
+      "CLEAN": 14,
+      "NOT_CLEAN": 0,
+      "rooms": [
+        "A12 B Double attached",
+        "A12 C Double common"
+      ],
+      "dataset_version": [
+        "v2_new_a11_a12"
+      ]
+    },
+    "A33": {
+      "images": 19,
+      "CLEAN": 17,
+      "NOT_CLEAN": 2,
+      "rooms": [
+        "A33 A single attach",
+        "A33 C double common"
+      ],
+      "dataset_version": [
+        "v1_original"
+      ]
+    },
+    "A34": {
+      "images": 19,
+      "CLEAN": 10,
+      "NOT_CLEAN": 9,
+      "rooms": [
+        "A34 A single attach",
+        "A34 B double attach"
+      ],
+      "dataset_version": [
+        "v1_original"
+      ]
+    },
+    "B41": {
+      "images": 33,
+      "CLEAN": 24,
+      "NOT_CLEAN": 9,
+      "rooms": [
+        "B41 B double attach",
+        "B41 C double common",
+        "B41 D single attach"
+      ],
+      "dataset_version": [
+        "v1_original"
+      ]
+    },
+    "C21": {
+      "images": 41,
+      "CLEAN": 37,
+      "NOT_CLEAN": 4,
+      "rooms": [
+        "C21 A single common",
+        "C21 B double attach",
+        "C21 C double common",
+        "C21 D single attach"
+      ],
+      "dataset_version": [
+        "v1_original"
+      ]
+    },
+    "C31": {
+      "images": 24,
+      "CLEAN": 17,
+      "NOT_CLEAN": 7,
+      "rooms": [
+        "C31 B double attach",
+        "C31 C double Common",
+        "C31 D single attach"
+      ],
+      "dataset_version": [
+        "v1_original"
+      ]
+    }
+  },
+  "grouping_columns_are_not_features": [
+    "room_id",
+    "property_group",
+    "sub_area",
+    "image_file",
+    "image_path",
+    "dataset_version"
+  ],
+  "original_manifest_modified": false,
+  "uncertain_images_excluded": 5,
+  "final_test_split": {
+    "marked_utc": "2026-09-24T11:53:33+00:00",
+    "images": 27,
+    "properties": [
+      "A11",
+      "A12"
+    ],
+    "rule": "FINAL_TEST - excluded from training, threshold selection and model selection; do not reuse without explicit approval",
+    "marker_file": "artifacts/final_test/FINAL_TEST_IMAGES.csv"
+  },
+  "label_corrections": [
+    {
+      "room_id": "A12 B Double attached",
+      "applied_utc": "2026-09-24T12:36:19+00:00",
+      "change": "all images -> CLEAN",
+      "rule": "localized cot-level untidiness is not room-level NOT_CLEAN",
+      "images_changed": 4
+    },
+    {
+      "room_id": "A12 B Double attached",
+      "applied_utc": "2026-09-25T05:36:10+00:00",
+      "change": "reason text only (WA0078, WA0079, WA0081); labels unchanged (CLEAN)",
+      "rule": "preserve visible evidence - clothes on the cot plus bags kept on the floor - while recording it as localized untidiness, not a housekeeping issue",
+      "images_changed": 3
+    }
+  ]
+}
