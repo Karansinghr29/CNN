@@ -60,22 +60,6 @@ with st.sidebar:
         "5. StandardScaler → class-weighted logistic regression"
     )
 
-    st.divider()
-    st.subheader("Validation evidence")
-    v = meta["validation_evidence"]
-    st.markdown(
-        f"Leave-one-property-out over 136 images / 5 properties:\n\n"
-        f"- Accuracy **{v['lopo_accuracy']:.1%}**\n"
-        f"- Balanced accuracy **{v['lopo_balanced_accuracy']:.1%}**\n"
-        f"- NOT_CLEAN recall **{v['lopo_notclean_recall']:.1%}**\n"
-        f"- NOT_CLEAN precision **{v['lopo_notclean_precision']:.1%}**"
-    )
-    st.warning(
-        "Those figures describe the **evaluation procedure**, not this fitted demo "
-        "model — it was fitted on all 136 images and has no unbiased accuracy estimate.",
-        icon="ℹ️",
-    )
-
 st.subheader("Add a room photo")
 mode = st.radio(
     "How would you like to provide the photo?",
